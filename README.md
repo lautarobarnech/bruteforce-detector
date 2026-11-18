@@ -1,5 +1,7 @@
 # bruteforce-detector
 
+> Estado: en desarrollo
+
 Detector de ataques de fuerza bruta
 por SSH, escrito en C++.
 
