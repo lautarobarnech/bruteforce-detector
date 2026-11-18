@@ -18,7 +18,7 @@ después de los intentos fallidos.
 
 Una IP se marca como sospechosa si
 tiene **5 o más intentos fallidos
-dentro de un tiempo de 10 minutos**.
+dentro de una ventana de 10 minutos**.
 
 Ambos valores se pueden cambiar
 al ejecutar el programa.
