@@ -13,7 +13,9 @@ int main(int argc, char* argv[]) {
     std::string linea;
 
     while (std::getline(archivo, linea)) {
-        std::cout << linea << "\n";
+        if (linea.find("Failed password") != std::string::npos) {  // solo intentos fallidos.
+            std::cout << linea << "\n";
+        }
     }
 
     return 0;
