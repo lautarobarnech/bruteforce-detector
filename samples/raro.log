@@ -1,0 +1,100 @@
+Nov 21 22:00:12 servidor sshd[8001]: Invalid user Failed password from 203.0.113.99 port 53411
+Nov 21 22:00:19 servidor CRON[8002]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:00:22 servidor sshd[8003]: Failed password for invalid user admin from 198.51.100.7 port 42637 ssh2
+Nov 21 22:00:35 servidor sshd[8004]: Failed password for root from 203.0.113.99 port 43706 ssh2
+Nov 21 22:00:48 servidor sshd[8005]: Failed password for invalid user test from 203.0.113.5 port 56254 ssh2
+Nov 21 22:00:59 servidor sshd[8006]: Failed password for invalid user admin from 203.0.113.99 port 61241 ssh2
+Nov 21 22:01:12 servidor sshd[8007]: Accepted password for lauta from 192.0.2.10 port 40559 ssh2
+Nov 21 22:01:26 servidor sshd[8008]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 21 22:01:31 servidor sshd[8009]: Failed password for root from 203.0.113.5 port 36182 ssh2
+Nov 21 22:01:36 servidor sshd[8010]: Failed password for root from 203.0.113.99 port 35910 ssh2
+Nov 21 22:01:39 servidor tienda-web[2244]: login failed password incorrect for user maria from 192.0.2.50
+Nov 21 22:01:41 servidor sshd[8012]: Failed password for root from 203.0.113.99 port 57939 ssh2
+Nov 21 22:01:48 servidor sshd[8013]: Failed password for invalid user guest from 203.0.113.99 port 59767 ssh2
+Nov 21 22:01:59 servidor sshd[8014]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 21 22:02:14 servidor sshd[8015]: Failed keyboard-interactive/pam for root from 203.0.113.5 port 57048 ssh2
+Nov 21 22:02:17 servidor sshd[8016]: Failed none for invalid user oracle from 203.0.113.99 port 47628 ssh2
+Nov 21 22:02:32 servidor sshd[8017]: Failed password for root from 203.0.113.99 port 36222 ssh2
+Nov 21 22:02:34 servidor sshd[8018]: Accepted password for lauta from 192.0.2.10 port 47786 ssh2
+Nov 21 22:02:40 servidor sshd[8019]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.51.100.7  user=root
+Nov 21 22:02:42 servidor sshd[8020]: message repeated 3 times: [ Failed password for root from 203.0.113.99 port 49301 ssh2]
+Nov 21 22:02:47 servidor sshd[8021]: Failed password for invalid user test from 198.51.100.7 port 30638 ssh2
+Nov 21 22:02:53 servidor sshd[8022]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.99  user=root
+Nov 21 22:03:08 servidor sshd[8023]: Failed password for root from 203.0.113.5 port 53108 ssh2
+Nov 21 22:03:17 servidor sshd[8024]: Failed keyboard-interactive/pam for root from 203.0.113.5 port 42076 ssh2
+Nov 21 22:03:20 servidor sshd[8025]: Failed password for invalid user guest from 203.0.113.5 port 53099 ssh2
+Nov 21 22:03:24 servidor sshd[8026]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.5  user=root
+Nov 21 22:03:36 servidor CRON[8027]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:03:43 servidor sshd[8028]: message repeated 3 times: [ Failed password for root from 203.0.113.99 port 55974 ssh2]
+Nov 21 22:03:47 servidor CRON[8029]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:03:56 servidor sshd[8030]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 21 22:04:07 servidor sshd[8031]: Accepted password for lauta from 192.0.2.10 port 47746 ssh2
+Nov 21 22:04:19 servidor tienda-web[2244]: login failed password incorrect for user maria from 192.0.2.50
+Nov 21 22:04:27 servidor sshd[8033]: Failed password for root from 203.0.113.99 port 63060 ssh2
+Nov 21 22:04:33 servidor tienda-web[2244]: login failed password incorrect for user maria from 192.0.2.50
+Nov 21 22:04:44 servidor sshd[8035]: Invalid user Failed password from 203.0.113.99 port 44620
+Nov 21 22:04:46 servidor sshd[8036]: Failed none for invalid user oracle from 198.51.100.7 port 60041 ssh2
+Nov 21 22:05:01 servidor sshd[8037]: Failed password for root from 203.0.113.5 port 34551 ssh2
+Nov 21 22:05:10 servidor sshd[8038]: Failed password for invalid user pi from 198.51.100.7 port 31309 ssh2
+Nov 21 22:05:13 servidor sshd[8039]: Connection closed by authenticating user root 203.0.113.99 port 35800 [preauth]
+Nov 21 22:05:25 servidor sshd[8040]: Failed password for invalid user test from 203.0.113.99 port 36256 ssh2
+Nov 21 22:05:29 servidor sshd[8041]: message repeated 3 times: [ Failed password for root from 203.0.113.99 port 39613 ssh2]
+Nov 21 22:05:33 servidor CRON[8042]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:05:46 servidor tienda-web[2244]: login failed password incorrect for user maria from 192.0.2.50
+Nov 21 22:06:01 servidor sshd[8044]: Failed password for invalid user pi from 198.51.100.7 port 37602 ssh2
+Nov 21 22:06:16 servidor sshd[8045]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.51.100.7  user=root
+Nov 21 22:06:29 servidor sshd[8046]: Accepted password for lauta from 192.0.2.10 port 45000 ssh2
+Nov 21 22:06:31 servidor sshd[8047]: Failed password for root from 203.0.113.5 port 63201 ssh2
+Nov 21 22:06:34 servidor CRON[8048]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:06:36 servidor sshd[8049]: message repeated 3 times: [ Failed password for root from 203.0.113.99 port 61331 ssh2]
+Nov 21 22:06:43 servidor sshd[8050]: Failed password for root from 203.0.113.99 port 61290 ssh2
+Nov 21 22:06:45 servidor sshd[8051]: Disconnected from invalid user oracle 203.0.113.99 port 63179 [preauth]
+Nov 21 22:06:47 servidor sshd[8052]: Disconnected from invalid user admin 203.0.113.99 port 64428 [preauth]
+Nov 21 22:07:00 servidor sshd[8053]: Failed password for invalid user test from 203.0.113.5 port 32594 ssh2
+Nov 21 22:07:09 servidor sshd[8054]: Accepted password for lauta from 192.0.2.10 port 30717 ssh2
+Nov 21 22:07:14 servidor sshd[8055]: Failed password for root from 198.51.100.7 port 51036 ssh2
+Nov 21 22:07:20 servidor sshd[8056]: Connection closed by authenticating user root 203.0.113.5 port 50080 [preauth]
+Nov 21 22:07:35 servidor sshd[8057]: Failed password for invalid user test from 203.0.113.99 port 58679 ssh2
+Nov 21 22:07:42 servidor sshd[8058]: Failed keyboard-interactive/pam for root from 203.0.113.5 port 40263 ssh2
+Nov 21 22:07:49 servidor sshd[8059]: Failed keyboard-interactive/pam for root from 203.0.113.99 port 40056 ssh2
+Nov 21 22:07:54 servidor sshd[8060]: Failed password for root from 203.0.113.99 port 57773 ssh2
+Nov 21 22:08:01 servidor sshd[8061]: Failed password for root from 203.0.113.99 port 43350 ssh2
+Nov 21 22:08:05 servidor sshd[8062]: Failed password for root from 203.0.113.99 port 37259 ssh2
+Nov 21 22:08:19 servidor sshd[8063]: Failed password for invalid user test from 203.0.113.5 port 43407 ssh2
+Nov 21 22:08:28 servidor sshd[8064]: Failed password for invalid user pi from 203.0.113.99 port 32763 ssh2
+Nov 21 22:08:35 servidor sshd[8065]: Failed none for invalid user admin from 203.0.113.5 port 35448 ssh2
+Nov 21 22:08:43 servidor sshd[8066]: Failed password for root from 198.51.100.7 port 40165 ssh2
+Nov 21 22:08:47 servidor sshd[8067]: Failed keyboard-interactive/pam for root from 203.0.113.5 port 47429 ssh2
+Nov 21 22:08:53 servidor sshd[8068]: Failed password for root from 203.0.113.5 port 49262 ssh2
+Nov 21 22:09:01 servidor sshd[8069]: Invalid user Failed password from 198.51.100.7 port 51884
+Nov 21 22:09:03 servidor sshd[8070]: Failed keyboard-interactive/pam for root from 203.0.113.99 port 47440 ssh2
+Nov 21 22:09:08 servidor sshd[8071]: Accepted password for lauta from 192.0.2.10 port 41536 ssh2
+Nov 21 22:09:20 servidor sshd[8072]: Failed keyboard-interactive/pam for root from 198.51.100.7 port 36084 ssh2
+Nov 21 22:09:33 servidor sshd[8073]: Failed keyboard-interactive/pam for root from 198.51.100.7 port 37844 ssh2
+Nov 21 22:09:37 servidor sshd[8074]: Connection closed by authenticating user root 203.0.113.99 port 60958 [preauth]
+Nov 21 22:09:42 servidor sshd[8075]: Failed password for root from 203.0.113.99 port 63959 ssh2
+Nov 21 22:09:44 servidor sshd[8076]: Accepted password for lauta from 192.0.2.10 port 52105 ssh2
+Nov 21 22:09:50 servidor sshd[8077]: Accepted password for lauta from 192.0.2.10 port 33237 ssh2
+Nov 21 22:09:57 servidor sshd[8078]: Disconnected from invalid user pi 203.0.113.5 port 46923 [preauth]
+Nov 21 22:10:08 servidor sshd[8079]: Failed password for invalid user oracle from 203.0.113.99 port 48912 ssh2
+Nov 21 22:10:15 servidor sshd[8080]: Failed password for invalid user oracle from 203.0.113.5 port 38267 ssh2
+Nov 21 22:10:24 servidor sshd[8081]: message repeated 3 times: [ Failed password for root from 198.51.100.7 port 56779 ssh2]
+Nov 21 22:10:29 servidor sshd[8082]: Failed password for invalid user test from 198.51.100.7 port 36397 ssh2
+Nov 21 22:10:32 servidor sshd[8083]: Accepted password for lauta from 192.0.2.10 port 35291 ssh2
+Nov 21 22:10:43 servidor sshd[8084]: Failed password for root from 198.51.100.7 port 61622 ssh2
+Nov 21 22:10:50 servidor sshd[8085]: Failed password for invalid user pi from 198.51.100.7 port 32978 ssh2
+Nov 21 22:10:57 servidor CRON[8086]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 21 22:11:10 servidor sshd[8087]: Failed password for root from 203.0.113.5 port 63365 ssh2
+Nov 21 22:11:21 servidor sshd[8088]: Failed password for root from 203.0.113.99 port 40372 ssh2
+Nov 21 22:11:26 servidor sshd[8089]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.51.100.7  user=root
+Nov 21 22:11:28 servidor sshd[8090]: Failed password for invalid user guest from 203.0.113.5 port 47657 ssh2
+Nov 21 22:11:41 servidor tienda-web[2244]: login failed password incorrect for user maria from 192.0.2.50
+Nov 21 22:11:56 servidor sshd[8092]: Failed keyboard-interactive/pam for root from 198.51.100.7 port 57753 ssh2
+Nov 21 22:12:05 servidor sshd[8093]: message repeated 3 times: [ Failed password for root from 203.0.113.99 port 48208 ssh2]
+Nov 21 22:12:18 servidor sshd[8094]: Failed none for invalid user oracle from 203.0.113.99 port 32802 ssh2
+Nov 21 22:12:22 servidor sshd[8095]: Failed keyboard-interactive/pam for root from 203.0.113.5 port 35948 ssh2
+Nov 21 22:12:36 servidor sshd[8096]: Disconnected from invalid user admin 198.51.100.7 port 43678 [preauth]
+Nov 21 22:12:43 servidor sshd[8097]: Failed password for invalid user guest from 203.0.113.99 port 40205 ssh2
+Nov 21 22:12:45 servidor sshd[8098]: Failed none for invalid user test from 198.51.100.7 port 51740 ssh2
+Nov 21 22:12:59 servidor sshd[8099]: Invalid user Failed password from 203.0.113.99 port 58438
+Nov 21 22:13:14 servidor sshd[8100]: Failed password for root from 203.0.113.5 port 35267 ssh2

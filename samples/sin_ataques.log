@@ -1,0 +1,31 @@
+Nov 16 08:00:01 servidor CRON[2101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 16 08:00:01 servidor CRON[2101]: pam_unix(cron:session): session closed for user root
+Nov 16 09:12:44 servidor sshd[2150]: Accepted publickey for lauta from 192.0.2.10 port 51022 ssh2: ED25519 SHA256:k3yF1ngerpr1ntEjempl0
+Nov 16 09:12:44 servidor sshd[2150]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 16 09:30:10 servidor sudo: lauta : TTY=pts/0 ; PWD=/home/lauta ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 16 09:30:10 servidor sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lauta(uid=1000)
+Nov 16 09:31:02 servidor sudo: pam_unix(sudo:session): session closed for user root
+Nov 16 11:47:05 servidor sshd[2150]: Received disconnect from 192.0.2.10 port 51022:11: disconnected by user
+Nov 16 11:47:05 servidor sshd[2150]: pam_unix(sshd:session): session closed for user lauta
+Nov 17 07:58:33 servidor sshd[3010]: Failed publickey for ana from 192.0.2.25 port 40118 ssh2
+Nov 17 07:58:40 servidor sshd[3010]: Accepted password for ana from 192.0.2.25 port 40118 ssh2
+Nov 17 07:58:40 servidor sshd[3010]: pam_unix(sshd:session): session opened for user ana(uid=1001) by (uid=0)
+Nov 17 12:00:01 servidor CRON[3120]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 17 12:00:02 servidor CRON[3120]: pam_unix(cron:session): session closed for user root
+Nov 17 16:20:15 servidor sshd[3010]: Connection closed by 192.0.2.25 port 40118
+Nov 17 16:20:15 servidor sshd[3010]: pam_unix(sshd:session): session closed for user ana
+Nov 18 14:20:01 servidor CRON[1101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 18 14:21:30 servidor sshd[1120]: Accepted password for lauta from 192.0.2.10 port 50110 ssh2
+Nov 18 14:21:30 servidor sshd[1120]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 18 14:34:40 servidor sshd[1241]: Failed publickey for lauta from 192.0.2.10 port 50200 ssh2
+Nov 18 14:41:02 servidor sshd[1270]: Accepted password for root from 203.0.113.5 port 52415 ssh2
+Nov 18 14:41:02 servidor sshd[1270]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Nov 18 15:00:01 servidor CRON[1301]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 18 10:05:51 servidor sshd[4200]: Accepted password for lauta from 198.51.100.40 port 55901 ssh2
+Nov 18 10:05:51 servidor sshd[4200]: pam_unix(sshd:session): session opened for user lauta(uid=1000) by (uid=0)
+Nov 18 10:06:30 servidor systemd-logind[612]: New session 42 of user lauta.
+Nov 18 13:44:02 servidor sshd[4200]: Received disconnect from 198.51.100.40 port 55901:11: disconnected by user
+Nov 18 13:44:02 servidor systemd-logind[612]: Session 42 logged out. Waiting for processes to exit.
+Nov 19 00:00:01 servidor CRON[5001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 19 06:25:10 servidor sshd[5050]: Accepted publickey for ana from 192.0.2.25 port 41200 ssh2: ED25519 SHA256:k3yF1ngerpr1ntEjempl0
+Nov 19 06:25:10 servidor sshd[5050]: pam_unix(sshd:session): session opened for user ana(uid=1001) by (uid=0)

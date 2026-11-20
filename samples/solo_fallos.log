@@ -1,0 +1,777 @@
+Nov 20 03:00:02 servidor sshd[6001]: Failed password for invalid user oracle from 198.51.100.7 port 58631 ssh2
+Nov 20 03:00:04 servidor sshd[6002]: Failed password for root from 198.51.100.7 port 31943 ssh2
+Nov 20 03:00:07 servidor sshd[6003]: Failed password for root from 203.0.113.5 port 41509 ssh2
+Nov 20 03:00:12 servidor sshd[6004]: Failed password for root from 203.0.113.5 port 64670 ssh2
+Nov 20 03:00:16 servidor sshd[6005]: Failed password for root from 192.0.2.77 port 54804 ssh2
+Nov 20 03:00:23 servidor sshd[6006]: Failed password for invalid user postgres from 203.0.113.5 port 53095 ssh2
+Nov 20 03:00:27 servidor sshd[6007]: Failed password for invalid user ubuntu from 198.51.100.7 port 30908 ssh2
+Nov 20 03:00:29 servidor sshd[6008]: Failed password for root from 203.0.113.5 port 42477 ssh2
+Nov 20 03:00:38 servidor sshd[6009]: Failed password for invalid user deploy from 198.51.100.7 port 46446 ssh2
+Nov 20 03:00:40 servidor sshd[6010]: Failed password for invalid user ftpuser from 203.0.113.5 port 62521 ssh2
+Nov 20 03:00:42 servidor sshd[6011]: Failed password for invalid user pi from 203.0.113.5 port 56627 ssh2
+Nov 20 03:00:49 servidor sshd[6012]: Failed password for invalid user postgres from 203.0.113.5 port 31316 ssh2
+Nov 20 03:00:50 servidor sshd[6013]: Failed password for root from 203.0.113.5 port 49613 ssh2
+Nov 20 03:00:54 servidor sshd[6014]: Failed password for invalid user deploy from 203.0.113.5 port 61183 ssh2
+Nov 20 03:00:56 servidor sshd[6015]: Failed password for root from 203.0.113.5 port 50331 ssh2
+Nov 20 03:01:02 servidor sshd[6016]: Failed password for invalid user admin from 203.0.113.5 port 49533 ssh2
+Nov 20 03:01:08 servidor sshd[6017]: Failed password for invalid user pi from 203.0.113.5 port 41984 ssh2
+Nov 20 03:01:11 servidor sshd[6018]: Failed password for root from 198.51.100.7 port 35182 ssh2
+Nov 20 03:01:18 servidor sshd[6019]: Failed password for root from 203.0.113.5 port 35812 ssh2
+Nov 20 03:01:24 servidor sshd[6020]: Failed password for invalid user ftpuser from 203.0.113.99 port 49226 ssh2
+Nov 20 03:01:28 servidor sshd[6021]: Failed password for invalid user ftpuser from 203.0.113.5 port 56412 ssh2
+Nov 20 03:01:36 servidor sshd[6022]: Failed password for invalid user ubuntu from 198.51.100.7 port 56299 ssh2
+Nov 20 03:01:39 servidor sshd[6023]: Failed password for root from 198.51.100.7 port 34962 ssh2
+Nov 20 03:01:46 servidor sshd[6024]: Failed password for invalid user pi from 203.0.113.99 port 39528 ssh2
+Nov 20 03:01:49 servidor sshd[6025]: Failed password for invalid user deploy from 198.51.100.7 port 59588 ssh2
+Nov 20 03:01:58 servidor sshd[6026]: Failed password for invalid user ubuntu from 198.51.100.7 port 42904 ssh2
+Nov 20 03:02:02 servidor sshd[6027]: Failed password for root from 198.51.100.7 port 41954 ssh2
+Nov 20 03:02:11 servidor sshd[6028]: Failed password for root from 198.51.100.7 port 39019 ssh2
+Nov 20 03:02:17 servidor sshd[6029]: Failed password for invalid user deploy from 203.0.113.5 port 54417 ssh2
+Nov 20 03:02:26 servidor sshd[6030]: Failed password for root from 203.0.113.5 port 44017 ssh2
+Nov 20 03:02:29 servidor sshd[6031]: Failed password for root from 203.0.113.5 port 44600 ssh2
+Nov 20 03:02:34 servidor sshd[6032]: Failed password for root from 203.0.113.5 port 47554 ssh2
+Nov 20 03:02:39 servidor sshd[6033]: Failed password for root from 203.0.113.5 port 62956 ssh2
+Nov 20 03:02:47 servidor sshd[6034]: Failed password for invalid user test from 198.51.100.7 port 60466 ssh2
+Nov 20 03:02:49 servidor sshd[6035]: Failed password for invalid user pi from 203.0.113.5 port 31636 ssh2
+Nov 20 03:02:52 servidor sshd[6036]: Failed password for invalid user ubuntu from 203.0.113.5 port 36108 ssh2
+Nov 20 03:02:58 servidor sshd[6037]: Failed password for invalid user deploy from 198.51.100.7 port 47737 ssh2
+Nov 20 03:02:59 servidor sshd[6038]: Failed password for invalid user postgres from 203.0.113.99 port 63368 ssh2
+Nov 20 03:03:03 servidor sshd[6039]: Failed password for root from 203.0.113.5 port 47849 ssh2
+Nov 20 03:03:07 servidor sshd[6040]: Failed password for invalid user oracle from 198.51.100.7 port 49613 ssh2
+Nov 20 03:03:16 servidor sshd[6041]: Failed password for invalid user ftpuser from 203.0.113.5 port 42470 ssh2
+Nov 20 03:03:19 servidor sshd[6042]: Failed password for invalid user ftpuser from 203.0.113.5 port 33291 ssh2
+Nov 20 03:03:27 servidor sshd[6043]: Failed password for root from 198.51.100.7 port 59080 ssh2
+Nov 20 03:03:29 servidor sshd[6044]: Failed password for root from 198.51.100.7 port 42180 ssh2
+Nov 20 03:03:36 servidor sshd[6045]: Failed password for invalid user admin from 198.51.100.7 port 37962 ssh2
+Nov 20 03:03:45 servidor sshd[6046]: Failed password for invalid user postgres from 203.0.113.5 port 43893 ssh2
+Nov 20 03:03:50 servidor sshd[6047]: Failed password for invalid user oracle from 198.51.100.7 port 45151 ssh2
+Nov 20 03:03:59 servidor sshd[6048]: Failed password for root from 203.0.113.5 port 53940 ssh2
+Nov 20 03:04:07 servidor sshd[6049]: Failed password for root from 203.0.113.99 port 56511 ssh2
+Nov 20 03:04:12 servidor sshd[6050]: Failed password for root from 203.0.113.99 port 46054 ssh2
+Nov 20 03:04:14 servidor sshd[6051]: Failed password for invalid user postgres from 203.0.113.5 port 43149 ssh2
+Nov 20 03:04:17 servidor sshd[6052]: Failed password for invalid user postgres from 203.0.113.5 port 36195 ssh2
+Nov 20 03:04:23 servidor sshd[6053]: Failed password for root from 198.51.100.7 port 31108 ssh2
+Nov 20 03:04:32 servidor sshd[6054]: Failed password for invalid user guest from 198.51.100.7 port 42379 ssh2
+Nov 20 03:04:36 servidor sshd[6055]: Failed password for invalid user ftpuser from 203.0.113.5 port 33186 ssh2
+Nov 20 03:04:41 servidor sshd[6056]: Failed password for invalid user ftpuser from 203.0.113.5 port 33393 ssh2
+Nov 20 03:04:48 servidor sshd[6057]: Failed password for invalid user deploy from 203.0.113.5 port 52682 ssh2
+Nov 20 03:04:53 servidor sshd[6058]: Failed password for invalid user oracle from 203.0.113.99 port 64966 ssh2
+Nov 20 03:05:01 servidor sshd[6059]: Failed password for invalid user test from 203.0.113.99 port 46495 ssh2
+Nov 20 03:05:07 servidor sshd[6060]: Failed password for root from 203.0.113.5 port 37719 ssh2
+Nov 20 03:05:16 servidor sshd[6061]: Failed password for root from 198.51.100.7 port 34338 ssh2
+Nov 20 03:05:21 servidor sshd[6062]: Failed password for invalid user guest from 198.51.100.7 port 46952 ssh2
+Nov 20 03:05:22 servidor sshd[6063]: Failed password for invalid user pi from 203.0.113.5 port 50244 ssh2
+Nov 20 03:05:31 servidor sshd[6064]: Failed password for root from 203.0.113.5 port 54800 ssh2
+Nov 20 03:05:39 servidor sshd[6065]: Failed password for root from 198.51.100.7 port 42511 ssh2
+Nov 20 03:05:42 servidor sshd[6066]: Failed password for invalid user test from 203.0.113.5 port 46912 ssh2
+Nov 20 03:05:49 servidor sshd[6067]: Failed password for root from 198.51.100.7 port 45398 ssh2
+Nov 20 03:05:55 servidor sshd[6068]: Failed password for root from 198.51.100.7 port 56617 ssh2
+Nov 20 03:05:56 servidor sshd[6069]: Failed password for invalid user deploy from 198.51.100.7 port 55383 ssh2
+Nov 20 03:06:03 servidor sshd[6070]: Failed password for invalid user postgres from 203.0.113.5 port 33085 ssh2
+Nov 20 03:06:10 servidor sshd[6071]: Failed password for root from 203.0.113.99 port 50864 ssh2
+Nov 20 03:06:18 servidor sshd[6072]: Failed password for invalid user admin from 198.51.100.7 port 37926 ssh2
+Nov 20 03:06:27 servidor sshd[6073]: Failed password for invalid user pi from 203.0.113.5 port 37014 ssh2
+Nov 20 03:06:30 servidor sshd[6074]: Failed password for invalid user guest from 203.0.113.5 port 58497 ssh2
+Nov 20 03:06:34 servidor sshd[6075]: Failed password for root from 198.51.100.7 port 32514 ssh2
+Nov 20 03:06:38 servidor sshd[6076]: Failed password for invalid user pi from 198.51.100.7 port 51524 ssh2
+Nov 20 03:06:39 servidor sshd[6077]: Failed password for invalid user oracle from 203.0.113.99 port 53951 ssh2
+Nov 20 03:06:48 servidor sshd[6078]: Failed password for invalid user admin from 198.51.100.7 port 42539 ssh2
+Nov 20 03:06:55 servidor sshd[6079]: Failed password for invalid user ftpuser from 203.0.113.5 port 46107 ssh2
+Nov 20 03:06:59 servidor sshd[6080]: Failed password for invalid user oracle from 198.51.100.7 port 59855 ssh2
+Nov 20 03:07:07 servidor sshd[6081]: Failed password for invalid user deploy from 203.0.113.5 port 61548 ssh2
+Nov 20 03:07:15 servidor sshd[6082]: Failed password for invalid user user from 198.51.100.7 port 50920 ssh2
+Nov 20 03:07:22 servidor sshd[6083]: Failed password for invalid user pi from 198.51.100.7 port 41601 ssh2
+Nov 20 03:07:24 servidor sshd[6084]: Failed password for root from 198.51.100.7 port 56573 ssh2
+Nov 20 03:07:32 servidor sshd[6085]: Failed password for invalid user deploy from 203.0.113.99 port 31244 ssh2
+Nov 20 03:07:40 servidor sshd[6086]: Failed password for root from 203.0.113.5 port 38625 ssh2
+Nov 20 03:07:44 servidor sshd[6087]: Failed password for root from 198.51.100.7 port 43012 ssh2
+Nov 20 03:07:50 servidor sshd[6088]: Failed password for invalid user postgres from 198.51.100.7 port 35155 ssh2
+Nov 20 03:07:54 servidor sshd[6089]: Failed password for invalid user ubuntu from 198.51.100.7 port 32963 ssh2
+Nov 20 03:07:59 servidor sshd[6090]: Failed password for root from 198.51.100.7 port 46291 ssh2
+Nov 20 03:08:00 servidor sshd[6091]: Failed password for invalid user ftpuser from 198.51.100.7 port 63588 ssh2
+Nov 20 03:08:07 servidor sshd[6092]: Failed password for invalid user ubuntu from 203.0.113.99 port 54400 ssh2
+Nov 20 03:08:16 servidor sshd[6093]: Failed password for invalid user pi from 203.0.113.5 port 36639 ssh2
+Nov 20 03:08:21 servidor sshd[6094]: Failed password for invalid user oracle from 203.0.113.5 port 47844 ssh2
+Nov 20 03:08:28 servidor sshd[6095]: Failed password for root from 203.0.113.5 port 62423 ssh2
+Nov 20 03:08:32 servidor sshd[6096]: Failed password for root from 203.0.113.5 port 35533 ssh2
+Nov 20 03:08:35 servidor sshd[6097]: Failed password for invalid user guest from 203.0.113.5 port 51532 ssh2
+Nov 20 03:08:41 servidor sshd[6098]: Failed password for root from 192.0.2.77 port 42225 ssh2
+Nov 20 03:08:49 servidor sshd[6099]: Failed password for root from 198.51.100.7 port 52363 ssh2
+Nov 20 03:08:51 servidor sshd[6100]: Failed password for invalid user pi from 203.0.113.5 port 32393 ssh2
+Nov 20 03:08:54 servidor sshd[6101]: Failed password for root from 203.0.113.5 port 41355 ssh2
+Nov 20 03:08:57 servidor sshd[6102]: Failed password for invalid user admin from 198.51.100.7 port 33215 ssh2
+Nov 20 03:09:02 servidor sshd[6103]: Failed password for invalid user admin from 203.0.113.99 port 52185 ssh2
+Nov 20 03:09:06 servidor sshd[6104]: Failed password for invalid user oracle from 203.0.113.5 port 32271 ssh2
+Nov 20 03:09:12 servidor sshd[6105]: Failed password for root from 198.51.100.7 port 58252 ssh2
+Nov 20 03:09:20 servidor sshd[6106]: Failed password for root from 198.51.100.7 port 49230 ssh2
+Nov 20 03:09:21 servidor sshd[6107]: Failed password for root from 198.51.100.7 port 41009 ssh2
+Nov 20 03:09:29 servidor sshd[6108]: Failed password for root from 203.0.113.99 port 57354 ssh2
+Nov 20 03:09:30 servidor sshd[6109]: Failed password for invalid user user from 203.0.113.5 port 30166 ssh2
+Nov 20 03:09:33 servidor sshd[6110]: Failed password for invalid user postgres from 198.51.100.7 port 51514 ssh2
+Nov 20 03:09:40 servidor sshd[6111]: Failed password for invalid user deploy from 203.0.113.5 port 35564 ssh2
+Nov 20 03:09:46 servidor sshd[6112]: Failed password for root from 198.51.100.7 port 43416 ssh2
+Nov 20 03:09:53 servidor sshd[6113]: Failed password for root from 203.0.113.5 port 59383 ssh2
+Nov 20 03:09:59 servidor sshd[6114]: Failed password for invalid user postgres from 203.0.113.99 port 52730 ssh2
+Nov 20 03:10:07 servidor sshd[6115]: Failed password for invalid user user from 203.0.113.5 port 50530 ssh2
+Nov 20 03:10:16 servidor sshd[6116]: Failed password for invalid user pi from 198.51.100.7 port 44749 ssh2
+Nov 20 03:10:20 servidor sshd[6117]: Failed password for invalid user user from 198.51.100.7 port 36691 ssh2
+Nov 20 03:10:26 servidor sshd[6118]: Failed password for invalid user postgres from 203.0.113.5 port 36924 ssh2
+Nov 20 03:10:34 servidor sshd[6119]: Failed password for invalid user test from 203.0.113.5 port 37164 ssh2
+Nov 20 03:10:36 servidor sshd[6120]: Failed password for invalid user guest from 198.51.100.7 port 57228 ssh2
+Nov 20 03:10:39 servidor sshd[6121]: Failed password for root from 203.0.113.5 port 30625 ssh2
+Nov 20 03:10:44 servidor sshd[6122]: Failed password for invalid user ftpuser from 192.0.2.77 port 50471 ssh2
+Nov 20 03:10:52 servidor sshd[6123]: Failed password for invalid user admin from 203.0.113.5 port 43917 ssh2
+Nov 20 03:10:56 servidor sshd[6124]: Failed password for invalid user user from 198.51.100.7 port 45547 ssh2
+Nov 20 03:11:04 servidor sshd[6125]: Failed password for root from 203.0.113.5 port 40233 ssh2
+Nov 20 03:11:08 servidor sshd[6126]: Failed password for invalid user guest from 203.0.113.5 port 45132 ssh2
+Nov 20 03:11:14 servidor sshd[6127]: Failed password for root from 203.0.113.99 port 51173 ssh2
+Nov 20 03:11:21 servidor sshd[6128]: Failed password for invalid user pi from 203.0.113.5 port 44048 ssh2
+Nov 20 03:11:25 servidor sshd[6129]: Failed password for invalid user admin from 203.0.113.5 port 33968 ssh2
+Nov 20 03:11:34 servidor sshd[6130]: Failed password for invalid user user from 203.0.113.5 port 39820 ssh2
+Nov 20 03:11:36 servidor sshd[6131]: Failed password for root from 198.51.100.7 port 45795 ssh2
+Nov 20 03:11:43 servidor sshd[6132]: Failed password for invalid user postgres from 198.51.100.7 port 31274 ssh2
+Nov 20 03:11:51 servidor sshd[6133]: Failed password for root from 203.0.113.5 port 33403 ssh2
+Nov 20 03:11:57 servidor sshd[6134]: Failed password for invalid user ftpuser from 198.51.100.7 port 39068 ssh2
+Nov 20 03:11:58 servidor sshd[6135]: Failed password for root from 198.51.100.7 port 55685 ssh2
+Nov 20 03:11:59 servidor sshd[6136]: Failed password for invalid user admin from 203.0.113.99 port 53034 ssh2
+Nov 20 03:12:08 servidor sshd[6137]: Failed password for root from 203.0.113.99 port 59296 ssh2
+Nov 20 03:12:11 servidor sshd[6138]: Failed password for root from 198.51.100.7 port 51265 ssh2
+Nov 20 03:12:15 servidor sshd[6139]: Failed password for invalid user test from 203.0.113.99 port 61593 ssh2
+Nov 20 03:12:17 servidor sshd[6140]: Failed password for invalid user test from 198.51.100.7 port 64669 ssh2
+Nov 20 03:12:24 servidor sshd[6141]: Failed password for root from 198.51.100.7 port 53251 ssh2
+Nov 20 03:12:25 servidor sshd[6142]: Failed password for root from 198.51.100.7 port 36714 ssh2
+Nov 20 03:12:31 servidor sshd[6143]: Failed password for invalid user test from 203.0.113.5 port 39114 ssh2
+Nov 20 03:12:36 servidor sshd[6144]: Failed password for root from 198.51.100.7 port 51223 ssh2
+Nov 20 03:12:42 servidor sshd[6145]: Failed password for invalid user postgres from 203.0.113.5 port 61217 ssh2
+Nov 20 03:12:43 servidor sshd[6146]: Failed password for root from 203.0.113.5 port 46495 ssh2
+Nov 20 03:12:46 servidor sshd[6147]: Failed password for root from 192.0.2.77 port 37565 ssh2
+Nov 20 03:12:54 servidor sshd[6148]: Failed password for invalid user admin from 203.0.113.99 port 60633 ssh2
+Nov 20 03:12:55 servidor sshd[6149]: Failed password for invalid user postgres from 203.0.113.5 port 42707 ssh2
+Nov 20 03:13:00 servidor sshd[6150]: Failed password for invalid user test from 198.51.100.7 port 31515 ssh2
+Nov 20 03:13:05 servidor sshd[6151]: Failed password for invalid user oracle from 203.0.113.5 port 39214 ssh2
+Nov 20 03:13:12 servidor sshd[6152]: Failed password for invalid user ftpuser from 203.0.113.5 port 63983 ssh2
+Nov 20 03:13:18 servidor sshd[6153]: Failed password for invalid user test from 198.51.100.7 port 46069 ssh2
+Nov 20 03:13:27 servidor sshd[6154]: Failed password for invalid user ubuntu from 198.51.100.7 port 38948 ssh2
+Nov 20 03:13:31 servidor sshd[6155]: Failed password for root from 203.0.113.5 port 64914 ssh2
+Nov 20 03:13:40 servidor sshd[6156]: Failed password for invalid user guest from 203.0.113.5 port 34365 ssh2
+Nov 20 03:13:47 servidor sshd[6157]: Failed password for root from 203.0.113.99 port 56298 ssh2
+Nov 20 03:13:50 servidor sshd[6158]: Failed password for root from 203.0.113.5 port 38970 ssh2
+Nov 20 03:13:51 servidor sshd[6159]: Failed password for invalid user guest from 198.51.100.7 port 61586 ssh2
+Nov 20 03:14:00 servidor sshd[6160]: Failed password for invalid user admin from 203.0.113.99 port 38354 ssh2
+Nov 20 03:14:05 servidor sshd[6161]: Failed password for invalid user oracle from 198.51.100.7 port 62747 ssh2
+Nov 20 03:14:06 servidor sshd[6162]: Failed password for invalid user user from 203.0.113.99 port 37116 ssh2
+Nov 20 03:14:13 servidor sshd[6163]: Failed password for root from 203.0.113.99 port 34514 ssh2
+Nov 20 03:14:20 servidor sshd[6164]: Failed password for invalid user admin from 198.51.100.7 port 55298 ssh2
+Nov 20 03:14:27 servidor sshd[6165]: Failed password for root from 203.0.113.5 port 49500 ssh2
+Nov 20 03:14:36 servidor sshd[6166]: Failed password for root from 198.51.100.7 port 64842 ssh2
+Nov 20 03:14:38 servidor sshd[6167]: Failed password for root from 203.0.113.5 port 51428 ssh2
+Nov 20 03:14:46 servidor sshd[6168]: Failed password for root from 198.51.100.7 port 35012 ssh2
+Nov 20 03:14:51 servidor sshd[6169]: Failed password for root from 203.0.113.5 port 36763 ssh2
+Nov 20 03:14:54 servidor sshd[6170]: Failed password for invalid user oracle from 198.51.100.7 port 53778 ssh2
+Nov 20 03:14:55 servidor sshd[6171]: Failed password for invalid user ubuntu from 203.0.113.5 port 31516 ssh2
+Nov 20 03:15:01 servidor sshd[6172]: Failed password for invalid user ubuntu from 203.0.113.5 port 43659 ssh2
+Nov 20 03:15:03 servidor sshd[6173]: Failed password for root from 198.51.100.7 port 38443 ssh2
+Nov 20 03:15:05 servidor sshd[6174]: Failed password for root from 203.0.113.5 port 51583 ssh2
+Nov 20 03:15:14 servidor sshd[6175]: Failed password for invalid user ftpuser from 203.0.113.5 port 41466 ssh2
+Nov 20 03:15:17 servidor sshd[6176]: Failed password for invalid user test from 203.0.113.5 port 63692 ssh2
+Nov 20 03:15:25 servidor sshd[6177]: Failed password for root from 203.0.113.5 port 38995 ssh2
+Nov 20 03:15:33 servidor sshd[6178]: Failed password for root from 203.0.113.99 port 62513 ssh2
+Nov 20 03:15:34 servidor sshd[6179]: Failed password for invalid user ubuntu from 198.51.100.7 port 50694 ssh2
+Nov 20 03:15:37 servidor sshd[6180]: Failed password for invalid user guest from 203.0.113.99 port 41498 ssh2
+Nov 20 03:15:40 servidor sshd[6181]: Failed password for root from 198.51.100.7 port 48639 ssh2
+Nov 20 03:15:48 servidor sshd[6182]: Failed password for root from 203.0.113.5 port 50828 ssh2
+Nov 20 03:15:55 servidor sshd[6183]: Failed password for invalid user test from 203.0.113.5 port 32112 ssh2
+Nov 20 03:15:58 servidor sshd[6184]: Failed password for root from 198.51.100.7 port 35748 ssh2
+Nov 20 03:16:02 servidor sshd[6185]: Failed password for root from 203.0.113.5 port 41129 ssh2
+Nov 20 03:16:04 servidor sshd[6186]: Failed password for root from 203.0.113.99 port 30454 ssh2
+Nov 20 03:16:11 servidor sshd[6187]: Failed password for invalid user test from 198.51.100.7 port 35998 ssh2
+Nov 20 03:16:15 servidor sshd[6188]: Failed password for root from 203.0.113.99 port 30790 ssh2
+Nov 20 03:16:21 servidor sshd[6189]: Failed password for invalid user oracle from 203.0.113.5 port 31483 ssh2
+Nov 20 03:16:30 servidor sshd[6190]: Failed password for invalid user deploy from 203.0.113.5 port 31126 ssh2
+Nov 20 03:16:31 servidor sshd[6191]: Failed password for invalid user user from 203.0.113.5 port 58378 ssh2
+Nov 20 03:16:37 servidor sshd[6192]: Failed password for root from 203.0.113.99 port 52510 ssh2
+Nov 20 03:16:44 servidor sshd[6193]: Failed password for invalid user ftpuser from 203.0.113.5 port 36925 ssh2
+Nov 20 03:16:53 servidor sshd[6194]: Failed password for invalid user ubuntu from 203.0.113.5 port 52976 ssh2
+Nov 20 03:16:56 servidor sshd[6195]: Failed password for invalid user ubuntu from 203.0.113.5 port 36663 ssh2
+Nov 20 03:17:00 servidor sshd[6196]: Failed password for invalid user oracle from 203.0.113.5 port 62042 ssh2
+Nov 20 03:17:04 servidor sshd[6197]: Failed password for root from 203.0.113.5 port 47056 ssh2
+Nov 20 03:17:09 servidor sshd[6198]: Failed password for invalid user ftpuser from 203.0.113.99 port 61100 ssh2
+Nov 20 03:17:13 servidor sshd[6199]: Failed password for root from 203.0.113.5 port 39936 ssh2
+Nov 20 03:17:16 servidor sshd[6200]: Failed password for root from 203.0.113.5 port 50832 ssh2
+Nov 20 03:17:18 servidor sshd[6201]: Failed password for invalid user admin from 203.0.113.5 port 40126 ssh2
+Nov 20 03:17:21 servidor sshd[6202]: Failed password for root from 203.0.113.99 port 50240 ssh2
+Nov 20 03:17:30 servidor sshd[6203]: Failed password for invalid user deploy from 203.0.113.5 port 39155 ssh2
+Nov 20 03:17:38 servidor sshd[6204]: Failed password for invalid user deploy from 203.0.113.5 port 41068 ssh2
+Nov 20 03:17:44 servidor sshd[6205]: Failed password for root from 198.51.100.7 port 38310 ssh2
+Nov 20 03:17:49 servidor sshd[6206]: Failed password for invalid user ubuntu from 198.51.100.7 port 43032 ssh2
+Nov 20 03:17:52 servidor sshd[6207]: Failed password for invalid user ubuntu from 203.0.113.5 port 61535 ssh2
+Nov 20 03:17:56 servidor sshd[6208]: Failed password for invalid user admin from 203.0.113.5 port 62195 ssh2
+Nov 20 03:18:00 servidor sshd[6209]: Failed password for invalid user guest from 198.51.100.7 port 42719 ssh2
+Nov 20 03:18:01 servidor sshd[6210]: Failed password for root from 203.0.113.5 port 63310 ssh2
+Nov 20 03:18:10 servidor sshd[6211]: Failed password for invalid user ubuntu from 203.0.113.5 port 58658 ssh2
+Nov 20 03:18:12 servidor sshd[6212]: Failed password for root from 203.0.113.99 port 35348 ssh2
+Nov 20 03:18:13 servidor sshd[6213]: Failed password for invalid user deploy from 203.0.113.5 port 49756 ssh2
+Nov 20 03:18:17 servidor sshd[6214]: Failed password for invalid user admin from 203.0.113.5 port 30199 ssh2
+Nov 20 03:18:21 servidor sshd[6215]: Failed password for invalid user ftpuser from 203.0.113.5 port 60355 ssh2
+Nov 20 03:18:27 servidor sshd[6216]: Failed password for invalid user postgres from 203.0.113.5 port 50267 ssh2
+Nov 20 03:18:36 servidor sshd[6217]: Failed password for root from 203.0.113.5 port 60121 ssh2
+Nov 20 03:18:42 servidor sshd[6218]: Failed password for root from 203.0.113.5 port 39604 ssh2
+Nov 20 03:18:43 servidor sshd[6219]: Failed password for invalid user user from 203.0.113.5 port 31043 ssh2
+Nov 20 03:18:46 servidor sshd[6220]: Failed password for root from 192.0.2.77 port 54674 ssh2
+Nov 20 03:18:52 servidor sshd[6221]: Failed password for invalid user user from 203.0.113.5 port 34216 ssh2
+Nov 20 03:18:57 servidor sshd[6222]: Failed password for root from 203.0.113.5 port 40100 ssh2
+Nov 20 03:19:03 servidor sshd[6223]: Failed password for root from 203.0.113.99 port 52002 ssh2
+Nov 20 03:19:11 servidor sshd[6224]: Failed password for root from 203.0.113.5 port 53487 ssh2
+Nov 20 03:19:14 servidor sshd[6225]: Failed password for root from 203.0.113.5 port 48430 ssh2
+Nov 20 03:19:15 servidor sshd[6226]: Failed password for invalid user pi from 203.0.113.5 port 33659 ssh2
+Nov 20 03:19:16 servidor sshd[6227]: Failed password for invalid user ftpuser from 203.0.113.5 port 49373 ssh2
+Nov 20 03:19:25 servidor sshd[6228]: Failed password for root from 203.0.113.99 port 51621 ssh2
+Nov 20 03:19:31 servidor sshd[6229]: Failed password for invalid user test from 203.0.113.5 port 58794 ssh2
+Nov 20 03:19:33 servidor sshd[6230]: Failed password for root from 203.0.113.99 port 42235 ssh2
+Nov 20 03:19:40 servidor sshd[6231]: Failed password for root from 203.0.113.5 port 48704 ssh2
+Nov 20 03:19:45 servidor sshd[6232]: Failed password for invalid user oracle from 203.0.113.5 port 45239 ssh2
+Nov 20 03:19:48 servidor sshd[6233]: Failed password for root from 203.0.113.5 port 56865 ssh2
+Nov 20 03:19:52 servidor sshd[6234]: Failed password for root from 198.51.100.7 port 52064 ssh2
+Nov 20 03:20:01 servidor sshd[6235]: Failed password for invalid user pi from 203.0.113.5 port 36843 ssh2
+Nov 20 03:20:05 servidor sshd[6236]: Failed password for root from 198.51.100.7 port 45988 ssh2
+Nov 20 03:20:14 servidor sshd[6237]: Failed password for root from 203.0.113.5 port 48325 ssh2
+Nov 20 03:20:16 servidor sshd[6238]: Failed password for invalid user user from 203.0.113.5 port 54768 ssh2
+Nov 20 03:20:18 servidor sshd[6239]: Failed password for invalid user test from 192.0.2.77 port 51000 ssh2
+Nov 20 03:20:21 servidor sshd[6240]: Failed password for invalid user postgres from 203.0.113.99 port 43383 ssh2
+Nov 20 03:20:22 servidor sshd[6241]: Failed password for invalid user guest from 203.0.113.99 port 40329 ssh2
+Nov 20 03:20:25 servidor sshd[6242]: Failed password for invalid user admin from 203.0.113.5 port 34050 ssh2
+Nov 20 03:20:26 servidor sshd[6243]: Failed password for root from 203.0.113.5 port 38322 ssh2
+Nov 20 03:20:32 servidor sshd[6244]: Failed password for invalid user ftpuser from 203.0.113.5 port 30537 ssh2
+Nov 20 03:20:40 servidor sshd[6245]: Failed password for root from 203.0.113.5 port 33173 ssh2
+Nov 20 03:20:47 servidor sshd[6246]: Failed password for root from 203.0.113.5 port 46753 ssh2
+Nov 20 03:20:53 servidor sshd[6247]: Failed password for invalid user oracle from 203.0.113.5 port 43516 ssh2
+Nov 20 03:20:57 servidor sshd[6248]: Failed password for invalid user postgres from 203.0.113.5 port 49710 ssh2
+Nov 20 03:21:00 servidor sshd[6249]: Failed password for invalid user oracle from 198.51.100.7 port 35868 ssh2
+Nov 20 03:21:04 servidor sshd[6250]: Failed password for root from 203.0.113.5 port 61256 ssh2
+Nov 20 03:21:12 servidor sshd[6251]: Failed password for invalid user ftpuser from 192.0.2.77 port 47598 ssh2
+Nov 20 03:21:17 servidor sshd[6252]: Failed password for root from 203.0.113.5 port 61453 ssh2
+Nov 20 03:21:22 servidor sshd[6253]: Failed password for root from 192.0.2.77 port 57474 ssh2
+Nov 20 03:21:28 servidor sshd[6254]: Failed password for invalid user admin from 198.51.100.7 port 34631 ssh2
+Nov 20 03:21:31 servidor sshd[6255]: Failed password for invalid user guest from 203.0.113.5 port 40939 ssh2
+Nov 20 03:21:38 servidor sshd[6256]: Failed password for root from 203.0.113.5 port 49553 ssh2
+Nov 20 03:21:43 servidor sshd[6257]: Failed password for root from 203.0.113.5 port 42163 ssh2
+Nov 20 03:21:52 servidor sshd[6258]: Failed password for root from 203.0.113.5 port 45836 ssh2
+Nov 20 03:21:57 servidor sshd[6259]: Failed password for invalid user deploy from 203.0.113.5 port 55768 ssh2
+Nov 20 03:22:02 servidor sshd[6260]: Failed password for invalid user admin from 203.0.113.5 port 50808 ssh2
+Nov 20 03:22:06 servidor sshd[6261]: Failed password for invalid user oracle from 198.51.100.7 port 38754 ssh2
+Nov 20 03:22:10 servidor sshd[6262]: Failed password for invalid user guest from 198.51.100.7 port 43552 ssh2
+Nov 20 03:22:16 servidor sshd[6263]: Failed password for invalid user test from 203.0.113.99 port 54607 ssh2
+Nov 20 03:22:23 servidor sshd[6264]: Failed password for root from 198.51.100.7 port 31327 ssh2
+Nov 20 03:22:26 servidor sshd[6265]: Failed password for root from 203.0.113.5 port 30762 ssh2
+Nov 20 03:22:28 servidor sshd[6266]: Failed password for invalid user admin from 198.51.100.7 port 39367 ssh2
+Nov 20 03:22:33 servidor sshd[6267]: Failed password for root from 198.51.100.7 port 38433 ssh2
+Nov 20 03:22:41 servidor sshd[6268]: Failed password for invalid user test from 198.51.100.7 port 51005 ssh2
+Nov 20 03:22:44 servidor sshd[6269]: Failed password for invalid user user from 198.51.100.7 port 53402 ssh2
+Nov 20 03:22:48 servidor sshd[6270]: Failed password for root from 198.51.100.7 port 56693 ssh2
+Nov 20 03:22:56 servidor sshd[6271]: Failed password for invalid user user from 203.0.113.99 port 46142 ssh2
+Nov 20 03:22:58 servidor sshd[6272]: Failed password for root from 203.0.113.5 port 39130 ssh2
+Nov 20 03:23:06 servidor sshd[6273]: Failed password for invalid user postgres from 203.0.113.5 port 33982 ssh2
+Nov 20 03:23:08 servidor sshd[6274]: Failed password for invalid user test from 198.51.100.7 port 59421 ssh2
+Nov 20 03:23:12 servidor sshd[6275]: Failed password for root from 203.0.113.5 port 55116 ssh2
+Nov 20 03:23:20 servidor sshd[6276]: Failed password for invalid user pi from 198.51.100.7 port 54000 ssh2
+Nov 20 03:23:24 servidor sshd[6277]: Failed password for invalid user pi from 198.51.100.7 port 53846 ssh2
+Nov 20 03:23:28 servidor sshd[6278]: Failed password for root from 198.51.100.7 port 40264 ssh2
+Nov 20 03:23:33 servidor sshd[6279]: Failed password for invalid user oracle from 203.0.113.5 port 32450 ssh2
+Nov 20 03:23:39 servidor sshd[6280]: Failed password for root from 203.0.113.5 port 40095 ssh2
+Nov 20 03:23:43 servidor sshd[6281]: Failed password for root from 198.51.100.7 port 62573 ssh2
+Nov 20 03:23:52 servidor sshd[6282]: Failed password for invalid user ubuntu from 203.0.113.5 port 38641 ssh2
+Nov 20 03:23:59 servidor sshd[6283]: Failed password for root from 203.0.113.5 port 46806 ssh2
+Nov 20 03:24:04 servidor sshd[6284]: Failed password for root from 203.0.113.5 port 62359 ssh2
+Nov 20 03:24:07 servidor sshd[6285]: Failed password for root from 203.0.113.5 port 52323 ssh2
+Nov 20 03:24:09 servidor sshd[6286]: Failed password for invalid user ftpuser from 198.51.100.7 port 63473 ssh2
+Nov 20 03:24:12 servidor sshd[6287]: Failed password for invalid user pi from 203.0.113.99 port 54432 ssh2
+Nov 20 03:24:13 servidor sshd[6288]: Failed password for invalid user pi from 198.51.100.7 port 39087 ssh2
+Nov 20 03:24:15 servidor sshd[6289]: Failed password for invalid user postgres from 198.51.100.7 port 30469 ssh2
+Nov 20 03:24:21 servidor sshd[6290]: Failed password for root from 203.0.113.5 port 43354 ssh2
+Nov 20 03:24:29 servidor sshd[6291]: Failed password for invalid user guest from 198.51.100.7 port 50891 ssh2
+Nov 20 03:24:33 servidor sshd[6292]: Failed password for root from 203.0.113.5 port 48401 ssh2
+Nov 20 03:24:41 servidor sshd[6293]: Failed password for invalid user ubuntu from 203.0.113.5 port 53482 ssh2
+Nov 20 03:24:42 servidor sshd[6294]: Failed password for root from 203.0.113.5 port 43374 ssh2
+Nov 20 03:24:44 servidor sshd[6295]: Failed password for invalid user pi from 198.51.100.7 port 59368 ssh2
+Nov 20 03:24:45 servidor sshd[6296]: Failed password for invalid user postgres from 203.0.113.5 port 50298 ssh2
+Nov 20 03:24:47 servidor sshd[6297]: Failed password for root from 198.51.100.7 port 59637 ssh2
+Nov 20 03:24:50 servidor sshd[6298]: Failed password for root from 198.51.100.7 port 37572 ssh2
+Nov 20 03:24:57 servidor sshd[6299]: Failed password for root from 203.0.113.5 port 49092 ssh2
+Nov 20 03:25:05 servidor sshd[6300]: Failed password for invalid user deploy from 198.51.100.7 port 31747 ssh2
+Nov 20 03:25:09 servidor sshd[6301]: Failed password for root from 203.0.113.5 port 51691 ssh2
+Nov 20 03:25:10 servidor sshd[6302]: Failed password for root from 203.0.113.5 port 62860 ssh2
+Nov 20 03:25:16 servidor sshd[6303]: Failed password for root from 203.0.113.5 port 44073 ssh2
+Nov 20 03:25:18 servidor sshd[6304]: Failed password for root from 203.0.113.5 port 58342 ssh2
+Nov 20 03:25:21 servidor sshd[6305]: Failed password for root from 203.0.113.5 port 45875 ssh2
+Nov 20 03:25:28 servidor sshd[6306]: Failed password for invalid user admin from 203.0.113.5 port 56407 ssh2
+Nov 20 03:25:31 servidor sshd[6307]: Failed password for root from 203.0.113.5 port 33463 ssh2
+Nov 20 03:25:40 servidor sshd[6308]: Failed password for root from 192.0.2.77 port 52102 ssh2
+Nov 20 03:25:41 servidor sshd[6309]: Failed password for root from 203.0.113.99 port 58153 ssh2
+Nov 20 03:25:43 servidor sshd[6310]: Failed password for root from 203.0.113.5 port 53518 ssh2
+Nov 20 03:25:52 servidor sshd[6311]: Failed password for root from 203.0.113.5 port 48633 ssh2
+Nov 20 03:26:00 servidor sshd[6312]: Failed password for invalid user ubuntu from 203.0.113.5 port 32689 ssh2
+Nov 20 03:26:03 servidor sshd[6313]: Failed password for invalid user guest from 203.0.113.5 port 30164 ssh2
+Nov 20 03:26:12 servidor sshd[6314]: Failed password for root from 203.0.113.5 port 32435 ssh2
+Nov 20 03:26:17 servidor sshd[6315]: Failed password for invalid user user from 203.0.113.5 port 46291 ssh2
+Nov 20 03:26:25 servidor sshd[6316]: Failed password for invalid user pi from 198.51.100.7 port 51520 ssh2
+Nov 20 03:26:26 servidor sshd[6317]: Failed password for invalid user postgres from 203.0.113.5 port 46364 ssh2
+Nov 20 03:26:33 servidor sshd[6318]: Failed password for root from 198.51.100.7 port 53885 ssh2
+Nov 20 03:26:40 servidor sshd[6319]: Failed password for invalid user admin from 198.51.100.7 port 36406 ssh2
+Nov 20 03:26:43 servidor sshd[6320]: Failed password for invalid user admin from 203.0.113.5 port 35408 ssh2
+Nov 20 03:26:52 servidor sshd[6321]: Failed password for invalid user admin from 203.0.113.99 port 34113 ssh2
+Nov 20 03:27:01 servidor sshd[6322]: Failed password for invalid user oracle from 203.0.113.5 port 46625 ssh2
+Nov 20 03:27:04 servidor sshd[6323]: Failed password for invalid user pi from 203.0.113.5 port 57376 ssh2
+Nov 20 03:27:07 servidor sshd[6324]: Failed password for invalid user guest from 203.0.113.5 port 43753 ssh2
+Nov 20 03:27:14 servidor sshd[6325]: Failed password for root from 203.0.113.5 port 56410 ssh2
+Nov 20 03:27:16 servidor sshd[6326]: Failed password for root from 203.0.113.99 port 45810 ssh2
+Nov 20 03:27:22 servidor sshd[6327]: Failed password for invalid user postgres from 203.0.113.5 port 37537 ssh2
+Nov 20 03:27:28 servidor sshd[6328]: Failed password for root from 198.51.100.7 port 35336 ssh2
+Nov 20 03:27:37 servidor sshd[6329]: Failed password for invalid user ubuntu from 198.51.100.7 port 34750 ssh2
+Nov 20 03:27:39 servidor sshd[6330]: Failed password for invalid user test from 203.0.113.5 port 62914 ssh2
+Nov 20 03:27:44 servidor sshd[6331]: Failed password for root from 203.0.113.5 port 48743 ssh2
+Nov 20 03:27:48 servidor sshd[6332]: Failed password for root from 203.0.113.5 port 45289 ssh2
+Nov 20 03:27:54 servidor sshd[6333]: Failed password for invalid user postgres from 203.0.113.99 port 37469 ssh2
+Nov 20 03:28:02 servidor sshd[6334]: Failed password for invalid user user from 198.51.100.7 port 62929 ssh2
+Nov 20 03:28:06 servidor sshd[6335]: Failed password for invalid user oracle from 203.0.113.5 port 38196 ssh2
+Nov 20 03:28:15 servidor sshd[6336]: Failed password for root from 192.0.2.77 port 32406 ssh2
+Nov 20 03:28:18 servidor sshd[6337]: Failed password for root from 192.0.2.77 port 64274 ssh2
+Nov 20 03:28:24 servidor sshd[6338]: Failed password for invalid user postgres from 203.0.113.5 port 53760 ssh2
+Nov 20 03:28:26 servidor sshd[6339]: Failed password for root from 203.0.113.5 port 32433 ssh2
+Nov 20 03:28:29 servidor sshd[6340]: Failed password for invalid user ftpuser from 203.0.113.5 port 30626 ssh2
+Nov 20 03:28:31 servidor sshd[6341]: Failed password for invalid user test from 203.0.113.99 port 55826 ssh2
+Nov 20 03:28:37 servidor sshd[6342]: Failed password for root from 198.51.100.7 port 33510 ssh2
+Nov 20 03:28:38 servidor sshd[6343]: Failed password for root from 198.51.100.7 port 32467 ssh2
+Nov 20 03:28:41 servidor sshd[6344]: Failed password for invalid user guest from 203.0.113.5 port 48925 ssh2
+Nov 20 03:28:42 servidor sshd[6345]: Failed password for root from 198.51.100.7 port 52765 ssh2
+Nov 20 03:28:49 servidor sshd[6346]: Failed password for invalid user guest from 203.0.113.99 port 35703 ssh2
+Nov 20 03:28:57 servidor sshd[6347]: Failed password for root from 198.51.100.7 port 49030 ssh2
+Nov 20 03:29:05 servidor sshd[6348]: Failed password for invalid user user from 198.51.100.7 port 61033 ssh2
+Nov 20 03:29:10 servidor sshd[6349]: Failed password for root from 203.0.113.5 port 39229 ssh2
+Nov 20 03:29:14 servidor sshd[6350]: Failed password for invalid user test from 203.0.113.5 port 46558 ssh2
+Nov 20 03:29:23 servidor sshd[6351]: Failed password for invalid user user from 203.0.113.5 port 57784 ssh2
+Nov 20 03:29:27 servidor sshd[6352]: Failed password for invalid user ubuntu from 203.0.113.5 port 39282 ssh2
+Nov 20 03:29:28 servidor sshd[6353]: Failed password for invalid user test from 198.51.100.7 port 44556 ssh2
+Nov 20 03:29:37 servidor sshd[6354]: Failed password for root from 203.0.113.5 port 52822 ssh2
+Nov 20 03:29:45 servidor sshd[6355]: Failed password for invalid user deploy from 198.51.100.7 port 33407 ssh2
+Nov 20 03:29:48 servidor sshd[6356]: Failed password for invalid user oracle from 198.51.100.7 port 38603 ssh2
+Nov 20 03:29:52 servidor sshd[6357]: Failed password for root from 203.0.113.5 port 53991 ssh2
+Nov 20 03:29:56 servidor sshd[6358]: Failed password for invalid user admin from 203.0.113.5 port 30090 ssh2
+Nov 20 03:30:05 servidor sshd[6359]: Failed password for invalid user admin from 203.0.113.99 port 37754 ssh2
+Nov 20 03:30:10 servidor sshd[6360]: Failed password for root from 203.0.113.5 port 46239 ssh2
+Nov 20 03:30:18 servidor sshd[6361]: Failed password for invalid user postgres from 203.0.113.99 port 39528 ssh2
+Nov 20 03:30:22 servidor sshd[6362]: Failed password for invalid user test from 203.0.113.5 port 33857 ssh2
+Nov 20 03:30:29 servidor sshd[6363]: Failed password for invalid user deploy from 203.0.113.5 port 37701 ssh2
+Nov 20 03:30:33 servidor sshd[6364]: Failed password for invalid user user from 203.0.113.5 port 34004 ssh2
+Nov 20 03:30:36 servidor sshd[6365]: Failed password for invalid user admin from 203.0.113.5 port 47169 ssh2
+Nov 20 03:30:45 servidor sshd[6366]: Failed password for root from 198.51.100.7 port 37515 ssh2
+Nov 20 03:30:47 servidor sshd[6367]: Failed password for invalid user postgres from 203.0.113.5 port 34468 ssh2
+Nov 20 03:30:49 servidor sshd[6368]: Failed password for root from 203.0.113.5 port 51221 ssh2
+Nov 20 03:30:58 servidor sshd[6369]: Failed password for invalid user pi from 203.0.113.5 port 60081 ssh2
+Nov 20 03:31:06 servidor sshd[6370]: Failed password for root from 203.0.113.5 port 63971 ssh2
+Nov 20 03:31:09 servidor sshd[6371]: Failed password for invalid user guest from 198.51.100.7 port 38762 ssh2
+Nov 20 03:31:16 servidor sshd[6372]: Failed password for invalid user pi from 203.0.113.5 port 42622 ssh2
+Nov 20 03:31:25 servidor sshd[6373]: Failed password for root from 203.0.113.99 port 46697 ssh2
+Nov 20 03:31:31 servidor sshd[6374]: Failed password for invalid user oracle from 198.51.100.7 port 50570 ssh2
+Nov 20 03:31:38 servidor sshd[6375]: Failed password for invalid user postgres from 203.0.113.5 port 57809 ssh2
+Nov 20 03:31:44 servidor sshd[6376]: Failed password for root from 198.51.100.7 port 45419 ssh2
+Nov 20 03:31:51 servidor sshd[6377]: Failed password for invalid user test from 203.0.113.5 port 54787 ssh2
+Nov 20 03:31:59 servidor sshd[6378]: Failed password for root from 203.0.113.99 port 32026 ssh2
+Nov 20 03:32:01 servidor sshd[6379]: Failed password for root from 203.0.113.5 port 37670 ssh2
+Nov 20 03:32:07 servidor sshd[6380]: Failed password for invalid user pi from 203.0.113.5 port 48865 ssh2
+Nov 20 03:32:16 servidor sshd[6381]: Failed password for invalid user postgres from 203.0.113.99 port 55967 ssh2
+Nov 20 03:32:23 servidor sshd[6382]: Failed password for invalid user oracle from 198.51.100.7 port 58335 ssh2
+Nov 20 03:32:32 servidor sshd[6383]: Failed password for invalid user postgres from 203.0.113.5 port 56947 ssh2
+Nov 20 03:32:33 servidor sshd[6384]: Failed password for invalid user oracle from 203.0.113.99 port 32188 ssh2
+Nov 20 03:32:38 servidor sshd[6385]: Failed password for invalid user deploy from 203.0.113.5 port 57041 ssh2
+Nov 20 03:32:39 servidor sshd[6386]: Failed password for root from 198.51.100.7 port 63694 ssh2
+Nov 20 03:32:45 servidor sshd[6387]: Failed password for invalid user user from 203.0.113.5 port 59961 ssh2
+Nov 20 03:32:46 servidor sshd[6388]: Failed password for invalid user test from 203.0.113.5 port 41378 ssh2
+Nov 20 03:32:53 servidor sshd[6389]: Failed password for root from 198.51.100.7 port 45413 ssh2
+Nov 20 03:32:57 servidor sshd[6390]: Failed password for root from 198.51.100.7 port 40652 ssh2
+Nov 20 03:33:06 servidor sshd[6391]: Failed password for invalid user postgres from 198.51.100.7 port 52560 ssh2
+Nov 20 03:33:13 servidor sshd[6392]: Failed password for invalid user pi from 203.0.113.5 port 64859 ssh2
+Nov 20 03:33:17 servidor sshd[6393]: Failed password for invalid user test from 203.0.113.99 port 53269 ssh2
+Nov 20 03:33:23 servidor sshd[6394]: Failed password for root from 203.0.113.99 port 60873 ssh2
+Nov 20 03:33:32 servidor sshd[6395]: Failed password for invalid user oracle from 198.51.100.7 port 37033 ssh2
+Nov 20 03:33:35 servidor sshd[6396]: Failed password for root from 203.0.113.5 port 63776 ssh2
+Nov 20 03:33:38 servidor sshd[6397]: Failed password for invalid user pi from 203.0.113.99 port 63803 ssh2
+Nov 20 03:33:39 servidor sshd[6398]: Failed password for invalid user user from 192.0.2.77 port 33094 ssh2
+Nov 20 03:33:43 servidor sshd[6399]: Failed password for invalid user oracle from 203.0.113.5 port 64981 ssh2
+Nov 20 03:33:49 servidor sshd[6400]: Failed password for invalid user ftpuser from 198.51.100.7 port 41383 ssh2
+Nov 20 03:33:53 servidor sshd[6401]: Failed password for invalid user ubuntu from 198.51.100.7 port 55160 ssh2
+Nov 20 03:33:56 servidor sshd[6402]: Failed password for root from 203.0.113.5 port 51977 ssh2
+Nov 20 03:33:59 servidor sshd[6403]: Failed password for root from 192.0.2.77 port 39317 ssh2
+Nov 20 03:34:00 servidor sshd[6404]: Failed password for root from 203.0.113.5 port 41725 ssh2
+Nov 20 03:34:08 servidor sshd[6405]: Failed password for root from 203.0.113.5 port 55998 ssh2
+Nov 20 03:34:13 servidor sshd[6406]: Failed password for invalid user guest from 203.0.113.5 port 58492 ssh2
+Nov 20 03:34:20 servidor sshd[6407]: Failed password for invalid user ubuntu from 203.0.113.5 port 34982 ssh2
+Nov 20 03:34:25 servidor sshd[6408]: Failed password for root from 198.51.100.7 port 63236 ssh2
+Nov 20 03:34:31 servidor sshd[6409]: Failed password for invalid user guest from 203.0.113.5 port 43547 ssh2
+Nov 20 03:34:32 servidor sshd[6410]: Failed password for invalid user ubuntu from 203.0.113.99 port 50010 ssh2
+Nov 20 03:34:36 servidor sshd[6411]: Failed password for invalid user postgres from 203.0.113.5 port 59353 ssh2
+Nov 20 03:34:40 servidor sshd[6412]: Failed password for invalid user postgres from 198.51.100.7 port 38565 ssh2
+Nov 20 03:34:46 servidor sshd[6413]: Failed password for root from 203.0.113.5 port 40204 ssh2
+Nov 20 03:34:52 servidor sshd[6414]: Failed password for invalid user pi from 198.51.100.7 port 38556 ssh2
+Nov 20 03:34:56 servidor sshd[6415]: Failed password for root from 203.0.113.5 port 57912 ssh2
+Nov 20 03:35:01 servidor sshd[6416]: Failed password for root from 203.0.113.5 port 36706 ssh2
+Nov 20 03:35:03 servidor sshd[6417]: Failed password for invalid user ftpuser from 203.0.113.5 port 38190 ssh2
+Nov 20 03:35:07 servidor sshd[6418]: Failed password for root from 203.0.113.5 port 62336 ssh2
+Nov 20 03:35:12 servidor sshd[6419]: Failed password for invalid user user from 192.0.2.77 port 37488 ssh2
+Nov 20 03:35:18 servidor sshd[6420]: Failed password for invalid user admin from 198.51.100.7 port 42557 ssh2
+Nov 20 03:35:27 servidor sshd[6421]: Failed password for invalid user test from 203.0.113.5 port 30807 ssh2
+Nov 20 03:35:35 servidor sshd[6422]: Failed password for invalid user postgres from 198.51.100.7 port 37449 ssh2
+Nov 20 03:35:38 servidor sshd[6423]: Failed password for root from 203.0.113.5 port 56642 ssh2
+Nov 20 03:35:44 servidor sshd[6424]: Failed password for root from 203.0.113.5 port 42296 ssh2
+Nov 20 03:35:51 servidor sshd[6425]: Failed password for invalid user postgres from 203.0.113.5 port 62519 ssh2
+Nov 20 03:35:53 servidor sshd[6426]: Failed password for root from 203.0.113.5 port 59041 ssh2
+Nov 20 03:35:57 servidor sshd[6427]: Failed password for invalid user pi from 203.0.113.5 port 38659 ssh2
+Nov 20 03:35:58 servidor sshd[6428]: Failed password for invalid user ftpuser from 203.0.113.5 port 51166 ssh2
+Nov 20 03:35:59 servidor sshd[6429]: Failed password for root from 203.0.113.99 port 50037 ssh2
+Nov 20 03:36:00 servidor sshd[6430]: Failed password for root from 203.0.113.5 port 61480 ssh2
+Nov 20 03:36:04 servidor sshd[6431]: Failed password for root from 203.0.113.5 port 53674 ssh2
+Nov 20 03:36:07 servidor sshd[6432]: Failed password for invalid user deploy from 203.0.113.99 port 41712 ssh2
+Nov 20 03:36:16 servidor sshd[6433]: Failed password for invalid user oracle from 203.0.113.99 port 30121 ssh2
+Nov 20 03:36:17 servidor sshd[6434]: Failed password for invalid user user from 203.0.113.5 port 51697 ssh2
+Nov 20 03:36:25 servidor sshd[6435]: Failed password for invalid user guest from 203.0.113.5 port 57166 ssh2
+Nov 20 03:36:33 servidor sshd[6436]: Failed password for root from 198.51.100.7 port 31604 ssh2
+Nov 20 03:36:35 servidor sshd[6437]: Failed password for root from 203.0.113.5 port 33797 ssh2
+Nov 20 03:36:37 servidor sshd[6438]: Failed password for root from 203.0.113.99 port 31476 ssh2
+Nov 20 03:36:44 servidor sshd[6439]: Failed password for invalid user postgres from 203.0.113.5 port 35347 ssh2
+Nov 20 03:36:48 servidor sshd[6440]: Failed password for invalid user guest from 203.0.113.5 port 41739 ssh2
+Nov 20 03:36:52 servidor sshd[6441]: Failed password for root from 203.0.113.5 port 61581 ssh2
+Nov 20 03:36:59 servidor sshd[6442]: Failed password for invalid user postgres from 203.0.113.99 port 36937 ssh2
+Nov 20 03:37:00 servidor sshd[6443]: Failed password for root from 203.0.113.5 port 45493 ssh2
+Nov 20 03:37:02 servidor sshd[6444]: Failed password for invalid user ubuntu from 198.51.100.7 port 60285 ssh2
+Nov 20 03:37:10 servidor sshd[6445]: Failed password for root from 203.0.113.5 port 43672 ssh2
+Nov 20 03:37:11 servidor sshd[6446]: Failed password for invalid user user from 203.0.113.5 port 57821 ssh2
+Nov 20 03:37:14 servidor sshd[6447]: Failed password for invalid user test from 198.51.100.7 port 40995 ssh2
+Nov 20 03:37:20 servidor sshd[6448]: Failed password for root from 203.0.113.5 port 61784 ssh2
+Nov 20 03:37:25 servidor sshd[6449]: Failed password for invalid user postgres from 203.0.113.5 port 30877 ssh2
+Nov 20 03:37:26 servidor sshd[6450]: Failed password for invalid user guest from 203.0.113.5 port 53987 ssh2
+Nov 20 03:37:33 servidor sshd[6451]: Failed password for root from 198.51.100.7 port 56482 ssh2
+Nov 20 03:37:38 servidor sshd[6452]: Failed password for root from 203.0.113.5 port 63530 ssh2
+Nov 20 03:37:39 servidor sshd[6453]: Failed password for invalid user pi from 198.51.100.7 port 54684 ssh2
+Nov 20 03:37:48 servidor sshd[6454]: Failed password for invalid user oracle from 203.0.113.5 port 46327 ssh2
+Nov 20 03:37:55 servidor sshd[6455]: Failed password for root from 192.0.2.77 port 42565 ssh2
+Nov 20 03:37:57 servidor sshd[6456]: Failed password for invalid user guest from 203.0.113.5 port 62453 ssh2
+Nov 20 03:38:06 servidor sshd[6457]: Failed password for invalid user oracle from 203.0.113.5 port 52193 ssh2
+Nov 20 03:38:15 servidor sshd[6458]: Failed password for invalid user guest from 203.0.113.99 port 46345 ssh2
+Nov 20 03:38:19 servidor sshd[6459]: Failed password for root from 203.0.113.5 port 36341 ssh2
+Nov 20 03:38:23 servidor sshd[6460]: Failed password for root from 203.0.113.5 port 43151 ssh2
+Nov 20 03:38:31 servidor sshd[6461]: Failed password for invalid user user from 203.0.113.5 port 59560 ssh2
+Nov 20 03:38:33 servidor sshd[6462]: Failed password for root from 192.0.2.77 port 61964 ssh2
+Nov 20 03:38:38 servidor sshd[6463]: Failed password for invalid user guest from 198.51.100.7 port 31293 ssh2
+Nov 20 03:38:44 servidor sshd[6464]: Failed password for invalid user postgres from 198.51.100.7 port 57008 ssh2
+Nov 20 03:38:52 servidor sshd[6465]: Failed password for root from 198.51.100.7 port 31480 ssh2
+Nov 20 03:38:55 servidor sshd[6466]: Failed password for invalid user guest from 203.0.113.99 port 58541 ssh2
+Nov 20 03:39:04 servidor sshd[6467]: Failed password for invalid user postgres from 203.0.113.5 port 64552 ssh2
+Nov 20 03:39:06 servidor sshd[6468]: Failed password for invalid user postgres from 198.51.100.7 port 58755 ssh2
+Nov 20 03:39:09 servidor sshd[6469]: Failed password for root from 203.0.113.5 port 44971 ssh2
+Nov 20 03:39:13 servidor sshd[6470]: Failed password for root from 198.51.100.7 port 51327 ssh2
+Nov 20 03:39:22 servidor sshd[6471]: Failed password for root from 203.0.113.5 port 58351 ssh2
+Nov 20 03:39:28 servidor sshd[6472]: Failed password for root from 203.0.113.99 port 37913 ssh2
+Nov 20 03:39:36 servidor sshd[6473]: Failed password for root from 198.51.100.7 port 31435 ssh2
+Nov 20 03:39:44 servidor sshd[6474]: Failed password for invalid user pi from 203.0.113.99 port 60603 ssh2
+Nov 20 03:39:46 servidor sshd[6475]: Failed password for invalid user deploy from 203.0.113.5 port 34182 ssh2
+Nov 20 03:39:51 servidor sshd[6476]: Failed password for root from 203.0.113.5 port 54528 ssh2
+Nov 20 03:40:00 servidor sshd[6477]: Failed password for root from 192.0.2.77 port 49077 ssh2
+Nov 20 03:40:02 servidor sshd[6478]: Failed password for invalid user oracle from 198.51.100.7 port 60828 ssh2
+Nov 20 03:40:04 servidor sshd[6479]: Failed password for invalid user admin from 203.0.113.5 port 64508 ssh2
+Nov 20 03:40:06 servidor sshd[6480]: Failed password for root from 203.0.113.5 port 31387 ssh2
+Nov 20 03:40:09 servidor sshd[6481]: Failed password for root from 203.0.113.5 port 39739 ssh2
+Nov 20 03:40:10 servidor sshd[6482]: Failed password for invalid user pi from 203.0.113.5 port 31798 ssh2
+Nov 20 03:40:15 servidor sshd[6483]: Failed password for invalid user oracle from 203.0.113.5 port 42447 ssh2
+Nov 20 03:40:21 servidor sshd[6484]: Failed password for root from 203.0.113.5 port 57791 ssh2
+Nov 20 03:40:23 servidor sshd[6485]: Failed password for invalid user user from 198.51.100.7 port 56816 ssh2
+Nov 20 03:40:31 servidor sshd[6486]: Failed password for invalid user postgres from 203.0.113.5 port 31970 ssh2
+Nov 20 03:40:39 servidor sshd[6487]: Failed password for invalid user postgres from 192.0.2.77 port 42877 ssh2
+Nov 20 03:40:48 servidor sshd[6488]: Failed password for root from 203.0.113.99 port 35477 ssh2
+Nov 20 03:40:50 servidor sshd[6489]: Failed password for root from 203.0.113.5 port 40415 ssh2
+Nov 20 03:40:55 servidor sshd[6490]: Failed password for root from 198.51.100.7 port 30704 ssh2
+Nov 20 03:40:57 servidor sshd[6491]: Failed password for invalid user ftpuser from 203.0.113.5 port 49506 ssh2
+Nov 20 03:41:00 servidor sshd[6492]: Failed password for invalid user pi from 203.0.113.5 port 50936 ssh2
+Nov 20 03:41:06 servidor sshd[6493]: Failed password for invalid user admin from 198.51.100.7 port 49713 ssh2
+Nov 20 03:41:15 servidor sshd[6494]: Failed password for root from 203.0.113.5 port 38324 ssh2
+Nov 20 03:41:17 servidor sshd[6495]: Failed password for root from 203.0.113.5 port 45664 ssh2
+Nov 20 03:41:21 servidor sshd[6496]: Failed password for root from 203.0.113.5 port 64216 ssh2
+Nov 20 03:41:27 servidor sshd[6497]: Failed password for invalid user oracle from 203.0.113.5 port 50205 ssh2
+Nov 20 03:41:31 servidor sshd[6498]: Failed password for invalid user oracle from 203.0.113.5 port 36664 ssh2
+Nov 20 03:41:36 servidor sshd[6499]: Failed password for invalid user guest from 198.51.100.7 port 35629 ssh2
+Nov 20 03:41:38 servidor sshd[6500]: Failed password for invalid user oracle from 198.51.100.7 port 35484 ssh2
+Nov 20 03:41:47 servidor sshd[6501]: Failed password for invalid user oracle from 203.0.113.99 port 48645 ssh2
+Nov 20 03:41:56 servidor sshd[6502]: Failed password for root from 198.51.100.7 port 31972 ssh2
+Nov 20 03:42:02 servidor sshd[6503]: Failed password for invalid user test from 203.0.113.5 port 40173 ssh2
+Nov 20 03:42:08 servidor sshd[6504]: Failed password for invalid user pi from 203.0.113.5 port 49376 ssh2
+Nov 20 03:42:12 servidor sshd[6505]: Failed password for root from 203.0.113.99 port 61526 ssh2
+Nov 20 03:42:19 servidor sshd[6506]: Failed password for invalid user pi from 198.51.100.7 port 49504 ssh2
+Nov 20 03:42:22 servidor sshd[6507]: Failed password for root from 203.0.113.5 port 47527 ssh2
+Nov 20 03:42:23 servidor sshd[6508]: Failed password for invalid user pi from 203.0.113.5 port 62876 ssh2
+Nov 20 03:42:29 servidor sshd[6509]: Failed password for root from 203.0.113.99 port 31237 ssh2
+Nov 20 03:42:31 servidor sshd[6510]: Failed password for invalid user test from 203.0.113.5 port 64200 ssh2
+Nov 20 03:42:39 servidor sshd[6511]: Failed password for root from 198.51.100.7 port 40418 ssh2
+Nov 20 03:42:45 servidor sshd[6512]: Failed password for invalid user admin from 203.0.113.99 port 62272 ssh2
+Nov 20 03:42:47 servidor sshd[6513]: Failed password for root from 198.51.100.7 port 45459 ssh2
+Nov 20 03:42:52 servidor sshd[6514]: Failed password for invalid user postgres from 198.51.100.7 port 61528 ssh2
+Nov 20 03:42:56 servidor sshd[6515]: Failed password for root from 203.0.113.99 port 64275 ssh2
+Nov 20 03:42:58 servidor sshd[6516]: Failed password for root from 198.51.100.7 port 44745 ssh2
+Nov 20 03:43:07 servidor sshd[6517]: Failed password for root from 203.0.113.5 port 44699 ssh2
+Nov 20 03:43:10 servidor sshd[6518]: Failed password for root from 203.0.113.99 port 59191 ssh2
+Nov 20 03:43:18 servidor sshd[6519]: Failed password for invalid user user from 203.0.113.99 port 42357 ssh2
+Nov 20 03:43:26 servidor sshd[6520]: Failed password for invalid user oracle from 198.51.100.7 port 33339 ssh2
+Nov 20 03:43:28 servidor sshd[6521]: Failed password for root from 198.51.100.7 port 36027 ssh2
+Nov 20 03:43:37 servidor sshd[6522]: Failed password for root from 203.0.113.5 port 58272 ssh2
+Nov 20 03:43:44 servidor sshd[6523]: Failed password for root from 203.0.113.5 port 50673 ssh2
+Nov 20 03:43:46 servidor sshd[6524]: Failed password for invalid user oracle from 198.51.100.7 port 30102 ssh2
+Nov 20 03:43:51 servidor sshd[6525]: Failed password for root from 198.51.100.7 port 53929 ssh2
+Nov 20 03:43:56 servidor sshd[6526]: Failed password for invalid user ftpuser from 198.51.100.7 port 37612 ssh2
+Nov 20 03:44:05 servidor sshd[6527]: Failed password for invalid user test from 203.0.113.5 port 61612 ssh2
+Nov 20 03:44:06 servidor sshd[6528]: Failed password for root from 192.0.2.77 port 44110 ssh2
+Nov 20 03:44:15 servidor sshd[6529]: Failed password for invalid user ubuntu from 203.0.113.5 port 36801 ssh2
+Nov 20 03:44:16 servidor sshd[6530]: Failed password for root from 198.51.100.7 port 43046 ssh2
+Nov 20 03:44:25 servidor sshd[6531]: Failed password for invalid user deploy from 198.51.100.7 port 34974 ssh2
+Nov 20 03:44:26 servidor sshd[6532]: Failed password for invalid user oracle from 203.0.113.5 port 39788 ssh2
+Nov 20 03:44:28 servidor sshd[6533]: Failed password for root from 203.0.113.5 port 59404 ssh2
+Nov 20 03:44:36 servidor sshd[6534]: Failed password for root from 203.0.113.5 port 51968 ssh2
+Nov 20 03:44:40 servidor sshd[6535]: Failed password for invalid user admin from 198.51.100.7 port 52389 ssh2
+Nov 20 03:44:41 servidor sshd[6536]: Failed password for invalid user guest from 198.51.100.7 port 46079 ssh2
+Nov 20 03:44:47 servidor sshd[6537]: Failed password for invalid user admin from 198.51.100.7 port 64129 ssh2
+Nov 20 03:44:55 servidor sshd[6538]: Failed password for invalid user deploy from 203.0.113.5 port 45511 ssh2
+Nov 20 03:45:02 servidor sshd[6539]: Failed password for invalid user deploy from 203.0.113.5 port 54560 ssh2
+Nov 20 03:45:11 servidor sshd[6540]: Failed password for invalid user guest from 198.51.100.7 port 43030 ssh2
+Nov 20 03:45:16 servidor sshd[6541]: Failed password for invalid user admin from 203.0.113.5 port 44696 ssh2
+Nov 20 03:45:25 servidor sshd[6542]: Failed password for root from 192.0.2.77 port 39604 ssh2
+Nov 20 03:45:27 servidor sshd[6543]: Failed password for invalid user oracle from 192.0.2.77 port 36218 ssh2
+Nov 20 03:45:34 servidor sshd[6544]: Failed password for root from 192.0.2.77 port 44046 ssh2
+Nov 20 03:45:36 servidor sshd[6545]: Failed password for root from 203.0.113.5 port 30485 ssh2
+Nov 20 03:45:40 servidor sshd[6546]: Failed password for invalid user guest from 203.0.113.5 port 31131 ssh2
+Nov 20 03:45:49 servidor sshd[6547]: Failed password for root from 198.51.100.7 port 35346 ssh2
+Nov 20 03:45:51 servidor sshd[6548]: Failed password for invalid user admin from 203.0.113.5 port 31971 ssh2
+Nov 20 03:45:52 servidor sshd[6549]: Failed password for root from 198.51.100.7 port 43907 ssh2
+Nov 20 03:46:00 servidor sshd[6550]: Failed password for invalid user pi from 198.51.100.7 port 45195 ssh2
+Nov 20 03:46:08 servidor sshd[6551]: Failed password for invalid user test from 198.51.100.7 port 61295 ssh2
+Nov 20 03:46:11 servidor sshd[6552]: Failed password for root from 198.51.100.7 port 53976 ssh2
+Nov 20 03:46:13 servidor sshd[6553]: Failed password for invalid user oracle from 198.51.100.7 port 44934 ssh2
+Nov 20 03:46:15 servidor sshd[6554]: Failed password for invalid user user from 198.51.100.7 port 39189 ssh2
+Nov 20 03:46:20 servidor sshd[6555]: Failed password for invalid user user from 203.0.113.5 port 40637 ssh2
+Nov 20 03:46:27 servidor sshd[6556]: Failed password for root from 203.0.113.5 port 38945 ssh2
+Nov 20 03:46:35 servidor sshd[6557]: Failed password for invalid user admin from 203.0.113.5 port 30246 ssh2
+Nov 20 03:46:42 servidor sshd[6558]: Failed password for root from 203.0.113.5 port 62162 ssh2
+Nov 20 03:46:43 servidor sshd[6559]: Failed password for root from 198.51.100.7 port 34081 ssh2
+Nov 20 03:46:45 servidor sshd[6560]: Failed password for invalid user ubuntu from 198.51.100.7 port 59373 ssh2
+Nov 20 03:46:48 servidor sshd[6561]: Failed password for root from 203.0.113.5 port 56039 ssh2
+Nov 20 03:46:51 servidor sshd[6562]: Failed password for root from 198.51.100.7 port 57902 ssh2
+Nov 20 03:46:57 servidor sshd[6563]: Failed password for root from 203.0.113.99 port 63877 ssh2
+Nov 20 03:46:59 servidor sshd[6564]: Failed password for invalid user oracle from 198.51.100.7 port 51285 ssh2
+Nov 20 03:47:01 servidor sshd[6565]: Failed password for invalid user test from 198.51.100.7 port 32621 ssh2
+Nov 20 03:47:03 servidor sshd[6566]: Failed password for invalid user ubuntu from 203.0.113.5 port 54094 ssh2
+Nov 20 03:47:12 servidor sshd[6567]: Failed password for invalid user pi from 198.51.100.7 port 62339 ssh2
+Nov 20 03:47:17 servidor sshd[6568]: Failed password for invalid user test from 203.0.113.5 port 30073 ssh2
+Nov 20 03:47:24 servidor sshd[6569]: Failed password for invalid user guest from 203.0.113.5 port 48518 ssh2
+Nov 20 03:47:28 servidor sshd[6570]: Failed password for invalid user test from 203.0.113.5 port 56828 ssh2
+Nov 20 03:47:36 servidor sshd[6571]: Failed password for invalid user admin from 198.51.100.7 port 41375 ssh2
+Nov 20 03:47:44 servidor sshd[6572]: Failed password for root from 203.0.113.5 port 33323 ssh2
+Nov 20 03:47:52 servidor sshd[6573]: Failed password for invalid user deploy from 198.51.100.7 port 31203 ssh2
+Nov 20 03:47:57 servidor sshd[6574]: Failed password for root from 203.0.113.5 port 61747 ssh2
+Nov 20 03:48:04 servidor sshd[6575]: Failed password for root from 203.0.113.5 port 40186 ssh2
+Nov 20 03:48:12 servidor sshd[6576]: Failed password for root from 198.51.100.7 port 38801 ssh2
+Nov 20 03:48:17 servidor sshd[6577]: Failed password for invalid user admin from 203.0.113.5 port 31575 ssh2
+Nov 20 03:48:18 servidor sshd[6578]: Failed password for root from 203.0.113.5 port 57889 ssh2
+Nov 20 03:48:23 servidor sshd[6579]: Failed password for invalid user guest from 198.51.100.7 port 56191 ssh2
+Nov 20 03:48:24 servidor sshd[6580]: Failed password for invalid user deploy from 203.0.113.5 port 50983 ssh2
+Nov 20 03:48:27 servidor sshd[6581]: Failed password for invalid user guest from 203.0.113.5 port 61904 ssh2
+Nov 20 03:48:34 servidor sshd[6582]: Failed password for invalid user pi from 198.51.100.7 port 36817 ssh2
+Nov 20 03:48:35 servidor sshd[6583]: Failed password for invalid user ubuntu from 203.0.113.5 port 45218 ssh2
+Nov 20 03:48:44 servidor sshd[6584]: Failed password for invalid user ftpuser from 198.51.100.7 port 49104 ssh2
+Nov 20 03:48:46 servidor sshd[6585]: Failed password for invalid user admin from 203.0.113.5 port 32897 ssh2
+Nov 20 03:48:52 servidor sshd[6586]: Failed password for invalid user test from 203.0.113.5 port 35960 ssh2
+Nov 20 03:48:57 servidor sshd[6587]: Failed password for root from 192.0.2.77 port 44987 ssh2
+Nov 20 03:49:03 servidor sshd[6588]: Failed password for invalid user ubuntu from 203.0.113.5 port 31574 ssh2
+Nov 20 03:49:04 servidor sshd[6589]: Failed password for root from 203.0.113.99 port 48620 ssh2
+Nov 20 03:49:13 servidor sshd[6590]: Failed password for invalid user ftpuser from 203.0.113.5 port 46553 ssh2
+Nov 20 03:49:16 servidor sshd[6591]: Failed password for invalid user postgres from 203.0.113.5 port 35776 ssh2
+Nov 20 03:49:17 servidor sshd[6592]: Failed password for invalid user guest from 203.0.113.5 port 54627 ssh2
+Nov 20 03:49:23 servidor sshd[6593]: Failed password for invalid user oracle from 198.51.100.7 port 32724 ssh2
+Nov 20 03:49:31 servidor sshd[6594]: Failed password for root from 198.51.100.7 port 38846 ssh2
+Nov 20 03:49:40 servidor sshd[6595]: Failed password for invalid user admin from 203.0.113.5 port 47236 ssh2
+Nov 20 03:49:45 servidor sshd[6596]: Failed password for invalid user admin from 198.51.100.7 port 45987 ssh2
+Nov 20 03:49:53 servidor sshd[6597]: Failed password for invalid user pi from 203.0.113.5 port 64143 ssh2
+Nov 20 03:50:02 servidor sshd[6598]: Failed password for invalid user oracle from 203.0.113.5 port 42576 ssh2
+Nov 20 03:50:10 servidor sshd[6599]: Failed password for root from 203.0.113.5 port 60574 ssh2
+Nov 20 03:50:19 servidor sshd[6600]: Failed password for root from 203.0.113.5 port 38948 ssh2
+Nov 20 03:50:27 servidor sshd[6601]: Failed password for invalid user admin from 198.51.100.7 port 48869 ssh2
+Nov 20 03:50:31 servidor sshd[6602]: Failed password for invalid user deploy from 203.0.113.5 port 38346 ssh2
+Nov 20 03:50:36 servidor sshd[6603]: Failed password for root from 203.0.113.5 port 48557 ssh2
+Nov 20 03:50:40 servidor sshd[6604]: Failed password for root from 203.0.113.5 port 41379 ssh2
+Nov 20 03:50:42 servidor sshd[6605]: Failed password for root from 203.0.113.99 port 61355 ssh2
+Nov 20 03:50:46 servidor sshd[6606]: Failed password for invalid user pi from 203.0.113.5 port 33709 ssh2
+Nov 20 03:50:50 servidor sshd[6607]: Failed password for root from 198.51.100.7 port 41901 ssh2
+Nov 20 03:50:53 servidor sshd[6608]: Failed password for root from 198.51.100.7 port 47518 ssh2
+Nov 20 03:51:01 servidor sshd[6609]: Failed password for invalid user test from 203.0.113.5 port 36395 ssh2
+Nov 20 03:51:04 servidor sshd[6610]: Failed password for invalid user user from 203.0.113.5 port 53439 ssh2
+Nov 20 03:51:11 servidor sshd[6611]: Failed password for invalid user ftpuser from 203.0.113.5 port 51455 ssh2
+Nov 20 03:51:19 servidor sshd[6612]: Failed password for root from 203.0.113.99 port 31965 ssh2
+Nov 20 03:51:21 servidor sshd[6613]: Failed password for root from 198.51.100.7 port 34217 ssh2
+Nov 20 03:51:27 servidor sshd[6614]: Failed password for root from 203.0.113.5 port 48641 ssh2
+Nov 20 03:51:34 servidor sshd[6615]: Failed password for invalid user oracle from 203.0.113.5 port 45570 ssh2
+Nov 20 03:51:35 servidor sshd[6616]: Failed password for invalid user ubuntu from 203.0.113.99 port 36358 ssh2
+Nov 20 03:51:40 servidor sshd[6617]: Failed password for root from 203.0.113.5 port 56570 ssh2
+Nov 20 03:51:49 servidor sshd[6618]: Failed password for root from 203.0.113.99 port 32510 ssh2
+Nov 20 03:51:56 servidor sshd[6619]: Failed password for invalid user guest from 203.0.113.5 port 61363 ssh2
+Nov 20 03:52:01 servidor sshd[6620]: Failed password for root from 203.0.113.5 port 34414 ssh2
+Nov 20 03:52:07 servidor sshd[6621]: Failed password for root from 198.51.100.7 port 35913 ssh2
+Nov 20 03:52:12 servidor sshd[6622]: Failed password for invalid user admin from 198.51.100.7 port 35633 ssh2
+Nov 20 03:52:17 servidor sshd[6623]: Failed password for root from 203.0.113.99 port 38286 ssh2
+Nov 20 03:52:23 servidor sshd[6624]: Failed password for invalid user ftpuser from 198.51.100.7 port 52740 ssh2
+Nov 20 03:52:25 servidor sshd[6625]: Failed password for invalid user guest from 203.0.113.5 port 43369 ssh2
+Nov 20 03:52:27 servidor sshd[6626]: Failed password for root from 198.51.100.7 port 63550 ssh2
+Nov 20 03:52:29 servidor sshd[6627]: Failed password for root from 203.0.113.5 port 46264 ssh2
+Nov 20 03:52:31 servidor sshd[6628]: Failed password for invalid user guest from 203.0.113.5 port 64295 ssh2
+Nov 20 03:52:36 servidor sshd[6629]: Failed password for invalid user deploy from 198.51.100.7 port 32803 ssh2
+Nov 20 03:52:43 servidor sshd[6630]: Failed password for root from 203.0.113.5 port 41158 ssh2
+Nov 20 03:52:46 servidor sshd[6631]: Failed password for invalid user test from 198.51.100.7 port 64554 ssh2
+Nov 20 03:52:47 servidor sshd[6632]: Failed password for root from 203.0.113.5 port 59072 ssh2
+Nov 20 03:52:48 servidor sshd[6633]: Failed password for invalid user deploy from 203.0.113.5 port 51063 ssh2
+Nov 20 03:52:52 servidor sshd[6634]: Failed password for invalid user oracle from 203.0.113.5 port 62901 ssh2
+Nov 20 03:52:57 servidor sshd[6635]: Failed password for invalid user test from 203.0.113.5 port 49398 ssh2
+Nov 20 03:53:02 servidor sshd[6636]: Failed password for root from 198.51.100.7 port 52837 ssh2
+Nov 20 03:53:08 servidor sshd[6637]: Failed password for root from 203.0.113.5 port 53967 ssh2
+Nov 20 03:53:12 servidor sshd[6638]: Failed password for invalid user user from 203.0.113.5 port 60199 ssh2
+Nov 20 03:53:21 servidor sshd[6639]: Failed password for root from 198.51.100.7 port 48484 ssh2
+Nov 20 03:53:22 servidor sshd[6640]: Failed password for root from 203.0.113.99 port 37051 ssh2
+Nov 20 03:53:23 servidor sshd[6641]: Failed password for root from 198.51.100.7 port 33796 ssh2
+Nov 20 03:53:27 servidor sshd[6642]: Failed password for invalid user guest from 198.51.100.7 port 37458 ssh2
+Nov 20 03:53:36 servidor sshd[6643]: Failed password for root from 203.0.113.5 port 56020 ssh2
+Nov 20 03:53:44 servidor sshd[6644]: Failed password for invalid user ubuntu from 198.51.100.7 port 30836 ssh2
+Nov 20 03:53:45 servidor sshd[6645]: Failed password for invalid user user from 203.0.113.5 port 46046 ssh2
+Nov 20 03:53:54 servidor sshd[6646]: Failed password for invalid user ubuntu from 203.0.113.99 port 30866 ssh2
+Nov 20 03:53:56 servidor sshd[6647]: Failed password for invalid user admin from 203.0.113.5 port 48795 ssh2
+Nov 20 03:53:59 servidor sshd[6648]: Failed password for invalid user pi from 203.0.113.5 port 60860 ssh2
+Nov 20 03:54:04 servidor sshd[6649]: Failed password for root from 203.0.113.5 port 58228 ssh2
+Nov 20 03:54:08 servidor sshd[6650]: Failed password for invalid user test from 203.0.113.5 port 63002 ssh2
+Nov 20 03:54:09 servidor sshd[6651]: Failed password for invalid user postgres from 203.0.113.5 port 35145 ssh2
+Nov 20 03:54:11 servidor sshd[6652]: Failed password for invalid user ftpuser from 198.51.100.7 port 35893 ssh2
+Nov 20 03:54:17 servidor sshd[6653]: Failed password for invalid user postgres from 198.51.100.7 port 46875 ssh2
+Nov 20 03:54:22 servidor sshd[6654]: Failed password for invalid user deploy from 203.0.113.5 port 33551 ssh2
+Nov 20 03:54:24 servidor sshd[6655]: Failed password for root from 198.51.100.7 port 35420 ssh2
+Nov 20 03:54:30 servidor sshd[6656]: Failed password for root from 203.0.113.5 port 58637 ssh2
+Nov 20 03:54:38 servidor sshd[6657]: Failed password for invalid user pi from 203.0.113.5 port 41120 ssh2
+Nov 20 03:54:44 servidor sshd[6658]: Failed password for root from 198.51.100.7 port 39017 ssh2
+Nov 20 03:54:50 servidor sshd[6659]: Failed password for invalid user deploy from 198.51.100.7 port 53351 ssh2
+Nov 20 03:54:56 servidor sshd[6660]: Failed password for invalid user guest from 192.0.2.77 port 38001 ssh2
+Nov 20 03:55:04 servidor sshd[6661]: Failed password for invalid user admin from 203.0.113.5 port 46384 ssh2
+Nov 20 03:55:13 servidor sshd[6662]: Failed password for invalid user test from 198.51.100.7 port 37182 ssh2
+Nov 20 03:55:14 servidor sshd[6663]: Failed password for root from 198.51.100.7 port 38879 ssh2
+Nov 20 03:55:15 servidor sshd[6664]: Failed password for root from 198.51.100.7 port 42154 ssh2
+Nov 20 03:55:18 servidor sshd[6665]: Failed password for root from 203.0.113.5 port 54986 ssh2
+Nov 20 03:55:27 servidor sshd[6666]: Failed password for invalid user deploy from 203.0.113.5 port 60191 ssh2
+Nov 20 03:55:36 servidor sshd[6667]: Failed password for root from 203.0.113.5 port 36440 ssh2
+Nov 20 03:55:39 servidor sshd[6668]: Failed password for root from 198.51.100.7 port 30377 ssh2
+Nov 20 03:55:48 servidor sshd[6669]: Failed password for invalid user ftpuser from 203.0.113.5 port 54224 ssh2
+Nov 20 03:55:50 servidor sshd[6670]: Failed password for invalid user test from 198.51.100.7 port 34810 ssh2
+Nov 20 03:55:52 servidor sshd[6671]: Failed password for invalid user postgres from 198.51.100.7 port 52735 ssh2
+Nov 20 03:55:57 servidor sshd[6672]: Failed password for root from 198.51.100.7 port 40237 ssh2
+Nov 20 03:55:58 servidor sshd[6673]: Failed password for root from 203.0.113.5 port 41175 ssh2
+Nov 20 03:56:05 servidor sshd[6674]: Failed password for root from 198.51.100.7 port 54697 ssh2
+Nov 20 03:56:12 servidor sshd[6675]: Failed password for invalid user guest from 198.51.100.7 port 30151 ssh2
+Nov 20 03:56:16 servidor sshd[6676]: Failed password for invalid user oracle from 203.0.113.99 port 53720 ssh2
+Nov 20 03:56:19 servidor sshd[6677]: Failed password for root from 198.51.100.7 port 63636 ssh2
+Nov 20 03:56:28 servidor sshd[6678]: Failed password for root from 203.0.113.5 port 61352 ssh2
+Nov 20 03:56:32 servidor sshd[6679]: Failed password for invalid user user from 198.51.100.7 port 46460 ssh2
+Nov 20 03:56:36 servidor sshd[6680]: Failed password for invalid user oracle from 198.51.100.7 port 61283 ssh2
+Nov 20 03:56:40 servidor sshd[6681]: Failed password for invalid user postgres from 198.51.100.7 port 56602 ssh2
+Nov 20 03:56:43 servidor sshd[6682]: Failed password for invalid user oracle from 198.51.100.7 port 56643 ssh2
+Nov 20 03:56:48 servidor sshd[6683]: Failed password for root from 203.0.113.99 port 58778 ssh2
+Nov 20 03:56:55 servidor sshd[6684]: Failed password for root from 203.0.113.99 port 33023 ssh2
+Nov 20 03:57:01 servidor sshd[6685]: Failed password for invalid user pi from 203.0.113.99 port 56889 ssh2
+Nov 20 03:57:05 servidor sshd[6686]: Failed password for invalid user postgres from 203.0.113.5 port 35058 ssh2
+Nov 20 03:57:11 servidor sshd[6687]: Failed password for invalid user oracle from 203.0.113.5 port 55001 ssh2
+Nov 20 03:57:12 servidor sshd[6688]: Failed password for root from 198.51.100.7 port 34491 ssh2
+Nov 20 03:57:20 servidor sshd[6689]: Failed password for root from 203.0.113.99 port 33933 ssh2
+Nov 20 03:57:28 servidor sshd[6690]: Failed password for invalid user user from 203.0.113.5 port 43921 ssh2
+Nov 20 03:57:32 servidor sshd[6691]: Failed password for root from 203.0.113.99 port 58400 ssh2
+Nov 20 03:57:36 servidor sshd[6692]: Failed password for invalid user deploy from 203.0.113.5 port 45041 ssh2
+Nov 20 03:57:43 servidor sshd[6693]: Failed password for root from 203.0.113.99 port 58976 ssh2
+Nov 20 03:57:46 servidor sshd[6694]: Failed password for root from 203.0.113.99 port 51765 ssh2
+Nov 20 03:57:50 servidor sshd[6695]: Failed password for root from 203.0.113.5 port 61372 ssh2
+Nov 20 03:57:52 servidor sshd[6696]: Failed password for invalid user ubuntu from 203.0.113.99 port 44400 ssh2
+Nov 20 03:57:54 servidor sshd[6697]: Failed password for root from 198.51.100.7 port 42974 ssh2
+Nov 20 03:58:01 servidor sshd[6698]: Failed password for invalid user ftpuser from 203.0.113.5 port 39222 ssh2
+Nov 20 03:58:03 servidor sshd[6699]: Failed password for root from 203.0.113.99 port 58509 ssh2
+Nov 20 03:58:05 servidor sshd[6700]: Failed password for invalid user guest from 198.51.100.7 port 36670 ssh2
+Nov 20 03:58:14 servidor sshd[6701]: Failed password for invalid user user from 198.51.100.7 port 34270 ssh2
+Nov 20 03:58:16 servidor sshd[6702]: Failed password for invalid user test from 203.0.113.5 port 62550 ssh2
+Nov 20 03:58:22 servidor sshd[6703]: Failed password for root from 203.0.113.5 port 53000 ssh2
+Nov 20 03:58:23 servidor sshd[6704]: Failed password for invalid user pi from 203.0.113.99 port 53419 ssh2
+Nov 20 03:58:24 servidor sshd[6705]: Failed password for invalid user test from 203.0.113.5 port 31630 ssh2
+Nov 20 03:58:31 servidor sshd[6706]: Failed password for invalid user pi from 203.0.113.5 port 56545 ssh2
+Nov 20 03:58:32 servidor sshd[6707]: Failed password for invalid user ubuntu from 203.0.113.5 port 41501 ssh2
+Nov 20 03:58:38 servidor sshd[6708]: Failed password for root from 198.51.100.7 port 33958 ssh2
+Nov 20 03:58:41 servidor sshd[6709]: Failed password for root from 198.51.100.7 port 61789 ssh2
+Nov 20 03:58:50 servidor sshd[6710]: Failed password for root from 198.51.100.7 port 30668 ssh2
+Nov 20 03:58:52 servidor sshd[6711]: Failed password for invalid user ftpuser from 203.0.113.5 port 59331 ssh2
+Nov 20 03:58:59 servidor sshd[6712]: Failed password for root from 198.51.100.7 port 53335 ssh2
+Nov 20 03:59:06 servidor sshd[6713]: Failed password for invalid user test from 203.0.113.5 port 39406 ssh2
+Nov 20 03:59:15 servidor sshd[6714]: Failed password for invalid user deploy from 203.0.113.5 port 60319 ssh2
+Nov 20 03:59:24 servidor sshd[6715]: Failed password for root from 203.0.113.5 port 41112 ssh2
+Nov 20 03:59:30 servidor sshd[6716]: Failed password for root from 203.0.113.5 port 55083 ssh2
+Nov 20 03:59:35 servidor sshd[6717]: Failed password for invalid user ubuntu from 198.51.100.7 port 32823 ssh2
+Nov 20 03:59:39 servidor sshd[6718]: Failed password for invalid user deploy from 203.0.113.99 port 45468 ssh2
+Nov 20 03:59:45 servidor sshd[6719]: Failed password for invalid user test from 203.0.113.5 port 46943 ssh2
+Nov 20 03:59:52 servidor sshd[6720]: Failed password for invalid user postgres from 203.0.113.5 port 42253 ssh2
+Nov 20 03:59:59 servidor sshd[6721]: Failed password for invalid user ftpuser from 198.51.100.7 port 58468 ssh2
+Nov 20 04:00:00 servidor sshd[6722]: Failed password for root from 203.0.113.5 port 50800 ssh2
+Nov 20 04:00:01 servidor sshd[6723]: Failed password for invalid user ftpuser from 203.0.113.5 port 33043 ssh2
+Nov 20 04:00:06 servidor sshd[6724]: Failed password for invalid user deploy from 198.51.100.7 port 63312 ssh2
+Nov 20 04:00:12 servidor sshd[6725]: Failed password for invalid user guest from 198.51.100.7 port 60151 ssh2
+Nov 20 04:00:18 servidor sshd[6726]: Failed password for root from 203.0.113.5 port 45761 ssh2
+Nov 20 04:00:20 servidor sshd[6727]: Failed password for root from 198.51.100.7 port 41567 ssh2
+Nov 20 04:00:26 servidor sshd[6728]: Failed password for root from 203.0.113.99 port 31180 ssh2
+Nov 20 04:00:35 servidor sshd[6729]: Failed password for invalid user oracle from 203.0.113.5 port 58371 ssh2
+Nov 20 04:00:40 servidor sshd[6730]: Failed password for invalid user guest from 203.0.113.99 port 63315 ssh2
+Nov 20 04:00:44 servidor sshd[6731]: Failed password for invalid user admin from 203.0.113.99 port 42187 ssh2
+Nov 20 04:00:53 servidor sshd[6732]: Failed password for invalid user test from 198.51.100.7 port 42758 ssh2
+Nov 20 04:01:01 servidor sshd[6733]: Failed password for invalid user user from 203.0.113.5 port 64048 ssh2
+Nov 20 04:01:05 servidor sshd[6734]: Failed password for invalid user test from 198.51.100.7 port 47495 ssh2
+Nov 20 04:01:11 servidor sshd[6735]: Failed password for invalid user deploy from 192.0.2.77 port 55095 ssh2
+Nov 20 04:01:16 servidor sshd[6736]: Failed password for invalid user postgres from 203.0.113.5 port 45490 ssh2
+Nov 20 04:01:24 servidor sshd[6737]: Failed password for invalid user user from 198.51.100.7 port 37657 ssh2
+Nov 20 04:01:28 servidor sshd[6738]: Failed password for invalid user ftpuser from 203.0.113.5 port 63236 ssh2
+Nov 20 04:01:32 servidor sshd[6739]: Failed password for root from 203.0.113.5 port 38729 ssh2
+Nov 20 04:01:36 servidor sshd[6740]: Failed password for invalid user guest from 198.51.100.7 port 55650 ssh2
+Nov 20 04:01:37 servidor sshd[6741]: Failed password for invalid user test from 198.51.100.7 port 51189 ssh2
+Nov 20 04:01:46 servidor sshd[6742]: Failed password for invalid user deploy from 203.0.113.5 port 58108 ssh2
+Nov 20 04:01:49 servidor sshd[6743]: Failed password for root from 198.51.100.7 port 56035 ssh2
+Nov 20 04:01:56 servidor sshd[6744]: Failed password for invalid user oracle from 203.0.113.5 port 39056 ssh2
+Nov 20 04:02:02 servidor sshd[6745]: Failed password for root from 203.0.113.5 port 43678 ssh2
+Nov 20 04:02:03 servidor sshd[6746]: Failed password for invalid user postgres from 203.0.113.99 port 50231 ssh2
+Nov 20 04:02:11 servidor sshd[6747]: Failed password for invalid user guest from 198.51.100.7 port 38066 ssh2
+Nov 20 04:02:20 servidor sshd[6748]: Failed password for invalid user oracle from 203.0.113.5 port 48287 ssh2
+Nov 20 04:02:22 servidor sshd[6749]: Failed password for root from 203.0.113.5 port 31747 ssh2
+Nov 20 04:02:27 servidor sshd[6750]: Failed password for root from 198.51.100.7 port 52477 ssh2
+Nov 20 04:02:30 servidor sshd[6751]: Failed password for invalid user postgres from 203.0.113.5 port 45502 ssh2
+Nov 20 04:02:35 servidor sshd[6752]: Failed password for root from 203.0.113.5 port 31070 ssh2
+Nov 20 04:02:40 servidor sshd[6753]: Failed password for root from 198.51.100.7 port 30824 ssh2
+Nov 20 04:02:44 servidor sshd[6754]: Failed password for invalid user deploy from 203.0.113.99 port 45299 ssh2
+Nov 20 04:02:47 servidor sshd[6755]: Failed password for root from 203.0.113.5 port 53363 ssh2
+Nov 20 04:02:56 servidor sshd[6756]: Failed password for invalid user ftpuser from 203.0.113.5 port 38614 ssh2
+Nov 20 04:02:57 servidor sshd[6757]: Failed password for root from 203.0.113.5 port 35879 ssh2
+Nov 20 04:03:01 servidor sshd[6758]: Failed password for invalid user test from 203.0.113.5 port 52581 ssh2
+Nov 20 04:03:02 servidor sshd[6759]: Failed password for invalid user postgres from 203.0.113.99 port 36409 ssh2
+Nov 20 04:03:07 servidor sshd[6760]: Failed password for invalid user test from 203.0.113.5 port 51436 ssh2
+Nov 20 04:03:11 servidor sshd[6761]: Failed password for invalid user oracle from 203.0.113.5 port 50777 ssh2
+Nov 20 04:03:17 servidor sshd[6762]: Failed password for root from 203.0.113.5 port 38220 ssh2
+Nov 20 04:03:23 servidor sshd[6763]: Failed password for invalid user oracle from 198.51.100.7 port 45058 ssh2
+Nov 20 04:03:24 servidor sshd[6764]: Failed password for invalid user ftpuser from 203.0.113.5 port 55888 ssh2
+Nov 20 04:03:30 servidor sshd[6765]: Failed password for root from 198.51.100.7 port 33364 ssh2
+Nov 20 04:03:34 servidor sshd[6766]: Failed password for root from 198.51.100.7 port 52645 ssh2
+Nov 20 04:03:40 servidor sshd[6767]: Failed password for root from 203.0.113.99 port 60767 ssh2
+Nov 20 04:03:49 servidor sshd[6768]: Failed password for root from 192.0.2.77 port 47363 ssh2
+Nov 20 04:03:55 servidor sshd[6769]: Failed password for root from 203.0.113.5 port 55667 ssh2
+Nov 20 04:03:56 servidor sshd[6770]: Failed password for invalid user user from 198.51.100.7 port 42784 ssh2
+Nov 20 04:04:01 servidor sshd[6771]: Failed password for invalid user pi from 203.0.113.5 port 36351 ssh2
+Nov 20 04:04:06 servidor sshd[6772]: Failed password for invalid user user from 203.0.113.5 port 52419 ssh2
+Nov 20 04:04:14 servidor sshd[6773]: Failed password for root from 198.51.100.7 port 44530 ssh2
+Nov 20 04:04:19 servidor sshd[6774]: Failed password for invalid user postgres from 203.0.113.5 port 34306 ssh2
+Nov 20 04:04:26 servidor sshd[6775]: Failed password for root from 192.0.2.77 port 58832 ssh2
+Nov 20 04:04:28 servidor sshd[6776]: Failed password for invalid user admin from 198.51.100.7 port 40178 ssh2
+Nov 20 04:04:34 servidor sshd[6777]: Failed password for invalid user admin from 203.0.113.5 port 47009 ssh2
