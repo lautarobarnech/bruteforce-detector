@@ -3,6 +3,13 @@
 #include <string>
 
 int main(int argc, char* argv[]) {
+
+    if (argc < 2 ) {
+        std::cout << "Falta el archivo a analizar." << "\n";
+        std::cout << "Uso: ./bruteforce-detector <archivo>" << "\n";
+        return 1;
+    }
+
     std::ifstream archivo(argv[1]);
 
     if (!archivo) {
