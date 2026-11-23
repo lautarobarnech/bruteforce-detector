@@ -19,7 +19,8 @@ int main(int argc, char* argv[]) {
     std::string linea;
     int contador = 0;
     while (std::getline(archivo, linea)) {
-        if (linea.find("]: Failed password for ") != std::string::npos) {  // solo intentos fallidos.
+        if ((linea.find("]: Failed password for ") != std::string::npos) || 
+            (linea.find("]: Failed keyboard-interactive/pam for ") != std::string::npos)) {  // solo intentos fallidos.
             contador++;
         }
     }
