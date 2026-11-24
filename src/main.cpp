@@ -21,11 +21,20 @@ int main(int argc, char* argv[]) {
     while (std::getline(archivo, linea)) {
         if ((linea.find("]: Failed password for ") != std::string::npos) || 
             (linea.find("]: Failed keyboard-interactive/pam for ") != std::string::npos)) {  // solo intentos fallidos.
+            
             contador++;
+
+        } else if ((linea.find("]: message repeated ") != std::string::npos) && 
+                   (linea.find("[ Failed password for ") != std::string::npos)) {
+                    
+                    size_t pos = linea.find("repeated ");
+                    std::string resto = linea.substr(pos + 9); 
+                    int n = std::stoi(resto); 
+                    contador += n;
         }
     }
     
     std::cout << "Intentos Fallidos: " << contador << "\n";
     return 0;
 
-}
+} 
